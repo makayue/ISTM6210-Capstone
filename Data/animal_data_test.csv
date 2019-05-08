@@ -1,0 +1,12 @@
+animalId,animalName,location,age,ageStatus,microchipId,species,breed1,breed2,sex,color1,color2,size,sterilized,vaccinated,houseTrained,registrationDate,shelterTenure,specialNeeds,goodWithDogs,goodWithCats,goodWithOther,goodWithChildren,fosterStatus
+AN1000,Danny,shelter,1,baby,KvN9a59ApD5ip46,dog,Collie,Mixed Breed,male,black,cream,medium,no,no,yes,2019-03-04,58,no,no,yes,yes,no,Available to foster
+AN1001,Mylo,home,9,young,wTM3kWlkbeshcru,cat,Singapura,None,male,brown,white,medium,yes,yes,yes,2019-03-20,42,no,yes,yes,yes,no,Adopted
+AN1002,Quicksilver,foster home,6,baby,753ZiZF8XGXabKG,cat,Domestic Short Hair,None,male,gray,white,medium,yes,yes,no,2019-04-25,6,no,yes,no,no,yes,Not available to foster
+AN1003,Puppy,home,3,baby,MPuBnSDIzox0cUX,dog,Mixed Breed,None,male,brown,None,medium,no,no,yes,2019-04-28,3,no,no,no,yes,no,Adopted
+AN1004,Shih Tzu,home,54,adult,9UaEM7VN31dBvdO,dog,Shih Tzu,None,female,golden,None,small,yes,no,no,2019-01-07,114,no,no,no,yes,yes,Adopted
+AN1005,Bubble,shelter,18,young,UUGlqqgATb9Q2U4,cat,Domestic Short Hair,None,male,golden,white,small,no,yes,no,2019-01-09,112,no,yes,no,yes,no,Pending
+AN1006,Meeka,foster home,1,baby,z6TX3VTqZFXlW0B,cat,Ragdoll,Himalayan,female,brown,white,large,no,no,yes,2019-02-28,62,no,no,yes,yes,yes,Not available to foster
+AN1007,Ginger Boy,home,22,young,l0dDAKKGykuz6FH,dog,Mixed Breed,None,male,brown,golden,medium,no,yes,yes,2019-04-02,29,no,yes,yes,no,yes,Adopted
+AN1008,Tiger Girl,home,2,baby,36NOFeI6wufUUIe,dog,Mixed Breed,None,female,black,brown,medium,yes,yes,no,2019-01-01,120,no,no,no,yes,no,Adopted
+AN1009,Tiger Or Ti-girl,shelter,4,baby,lnbgczEuk65dVrn,dog,Mixed Breed,None,female,black,None,medium,no,no,yes,2019-03-22,40,no,yes,yes,yes,yes,Available to foster
+AN1010,Duzell,shelter,1,baby,iAeHWb2NvXfYNHd,cat,Domestic Medium Hair,None,female,black,gray,medium,no,no,yes,2019-01-02,119,no,yes,no,no,yes,Pending

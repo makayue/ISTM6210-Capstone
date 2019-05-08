@@ -1,0 +1,25 @@
+shelterId,shelterName,shelterAddress,shelterCity,shelterState,shelterZipCode,shelterPhoneNumber,euthStatus,euthDuration
+91000,Your Neighborhood Animal Rescue,834 Cabell Ct,Springfield,VA,22150,451-156-1394,no euthanasia,not applicable
+91001,Fluffy Tails Animal Shelter,155 Hillwood Avenue,Falls Church,VA,22046,346-391-7253,no euthanasia,not applicable
+91002,Arlington Shelter,3921 S Capitol St SW,Washington,DC,20032,581-436-9183,no euthanasia,not applicable
+91003,NOVA Animal Shelter,1608 20th St NW,Washington,DC,20009,182-428-4753,no euthanasia,not applicable
+91004,Kennel Resist Rescue,5100 Wisconsin Ave NW,Washington,DC,20016,936-641-2173,no euthanasia,not applicable
+91005,Paws Patrol Animal Rescue,1440 P St NW,Washington,DC,20005,581-268-2398,no euthanasia,not applicable
+91006,Puppy Noses and Kitty Tails Rescue,1345 Park Rd NW,Washington,DC,20010,854-273-8176,no euthanasia,not applicable
+91007,No Ruff Days Animal Rescue,501 3rd St NW,Washington,DC,20001,315-829-9264,no euthanasia,not applicable
+91008,Paws and Claws Rescue,1924 8th St NW,Washington,DC,20001,415-684-2176,no euthanasia,not applicable
+91009,Just A Little Husky Animal Shelter,707 Larchmont Ave,Capitol Heights,MD,20743,746-719-3597,no euthanasia,not applicable
+91010,Round of A-PAWS Rescue,653 Morton Pl NE,Washington,DC,20002,269-426-1687,no euthanasia,not applicable
+91011,Four Paws Up Animal Rescue,3326 E St SE,Washington,DC,20019,146-158-6519,no euthanasia,not applicable
+91012,NOVA Animal Pound,5400 Cathedral Ave NW,Washington,DC,20016,157-264-2941,euthanasia,11
+91013,Arlington Pound,5886 Leesburg Pike,Falls Church,VA,22041,197-879-1649,euthanasia,13
+91014,Animal Shelter,7451 Patterson Rd,Falls Church,VA,22043,915-657-8469,euthanasia,10
+91015,We Got Pets,809 Graham Rd,Falls Church,VA,22042,738-935-9864,euthanasia,8
+91016,No-Good Animal Shelter,6211 Leesburg Pike,Falls Church,VA,22044,349-219-7548,euthanasia,6
+91017,No Bueno Shelter,843 Cabell Avenue,Charlottesville,VA,22903,341-896-4895,euthanasia,5
+91018,Generic Animal Shelter,5840 Crossroads Ctr,Falls Church,VA,22041,186-985-3196,euthanasia,3
+91019,Just a Shelter,7541 Leesburg Pike,Falls Church,VA,22043,476-472-3541,euthanasia,9
+91020,The Animal Pound,5300 Wisconsin Ave NW,Washington,DC,20015,964-264-6521,euthanasia,10
+91021,ABC Shelter,1201 G St NW,Washington,DC,20005,975-829-7864,euthanasia,9
+91022,Shelter 123,5333 Wisconsin Ave NW,Washington,DC,20015,738-459-2961,euthanasia,7
+91023,Just Animals Shelter,2747 Martin Luther King Jr Ave SE,Washington,DC,20032,572-342-3574,euthanasia,6

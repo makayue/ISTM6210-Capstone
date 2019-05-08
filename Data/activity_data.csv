@@ -1,0 +1,298 @@
+activityId,type,approvalDate,duration,status,fosterId,animalId
+121000,active,2019-02-19,71,approved,51018,31077
+121001,pending pickup,2019-04-04,27,approved,51072,31327
+121002,active,2019-05-01,0,approved,51001,31664
+121003,active,2019-04-20,11,approved,51038,31042
+121004,active,2019-05-01,0,approved,51071,31088
+121005,pending pickup,2019-04-26,5,approved,51092,31090
+121006,active,2019-04-29,2,approved,51099,31096
+121007,active,2019-03-28,34,approved,51102,31108
+121008,pending pickup,2019-04-21,10,approved,51110,31167
+121009,active,2019-04-19,12,approved,51120,31185
+121010,pending pickup,2019-04-05,26,approved,51123,31201
+121011,active,2019-04-27,4,approved,51144,31243
+121012,active,2019-04-22,9,approved,51147,31291
+121013,active,2019-04-29,2,approved,51152,31322
+121014,active,2019-03-26,36,approved,51193,31347
+121015,pending pickup,2019-04-20,11,approved,51254,31378
+121016,active,2019-04-27,4,approved,51278,31437
+121017,active,2019-03-28,34,approved,51296,31444
+121018,active,2019-03-11,51,approved,51302,31476
+121019,active,2019-03-25,37,approved,51309,31530
+121020,active,2019-05-01,0,approved,51313,31541
+121021,pending pickup,2019-04-29,2,approved,51319,31564
+121022,active,2019-04-25,6,approved,51002,31602
+121023,pending pickup,2019-05-01,0,approved,51006,31636
+121024,pending pickup,2019-04-28,3,approved,51060,31649
+121025,active,2019-04-20,11,approved,51084,31656
+121026,active,2019-05-01,0,approved,51098,31699
+121027,pending pickup,2019-04-27,4,approved,51111,31705
+121028,active,2019-04-29,2,approved,51113,31757
+121029,active,2019-03-27,35,approved,51114,31765
+121030,active,2019-04-28,3,approved,51121,31002
+121031,active,2019-04-30,1,approved,51131,31006
+121032,active,2019-04-06,25,approved,51138,31013
+121033,pending pickup,2019-04-24,7,approved,51166,31018
+121034,active,2019-04-15,16,approved,51167,31047
+121035,active,2019-04-24,7,approved,51169,31049
+121036,active,2019-05-01,0,approved,51174,31061
+121037,pending pickup,2019-05-01,0,approved,51182,31075
+121038,active,2019-04-20,11,approved,51197,31093
+121039,active,2019-04-23,8,approved,51200,31106
+121040,active,2019-04-26,5,approved,51203,31109
+121041,active,2019-04-29,2,approved,51205,31111
+121042,active,2019-04-21,10,approved,51222,31120
+121043,active,2019-05-01,0,approved,51236,31130
+121044,active,2019-03-17,45,approved,51237,31133
+121045,active,2019-04-24,7,approved,51257,31140
+121046,active,2019-05-01,0,approved,51275,31147
+121047,pending pickup,2019-04-06,25,approved,51286,31148
+121048,pending pickup,2019-02-28,62,approved,51298,31171
+121049,active,2019-04-11,20,approved,51333,31198
+121050,pending pickup,2019-02-13,77,approved,51343,31199
+121051,active,2019-04-17,14,approved,51348,31200
+121052,pending pickup,2019-04-16,15,approved,51000,31221
+121053,active,2019-04-23,8,approved,51003,31224
+121054,active,2019-04-28,3,approved,51015,31235
+121055,active,2019-04-30,1,approved,51016,31240
+121056,active,2019-04-29,2,approved,51025,31245
+121057,active,2019-05-01,0,approved,51039,31252
+121058,active,2019-04-27,4,approved,51041,31262
+121059,pending pickup,2019-04-17,14,approved,51054,31305
+121060,active,2019-04-29,2,approved,51062,31310
+121061,active,2019-04-04,27,approved,51074,31353
+121062,active,2019-04-01,30,approved,51078,31424
+121063,active,2019-04-03,28,approved,51081,31428
+121064,active,2019-04-15,16,approved,51089,31435
+121065,active,2019-04-27,4,approved,51090,31436
+121066,active,2019-04-24,7,approved,51094,31441
+121067,pending pickup,2019-04-20,11,approved,51096,31449
+121068,active,2019-04-28,3,approved,51100,31450
+121069,pending pickup,2019-05-01,0,approved,51101,31478
+121070,active,2019-02-21,69,approved,51117,31486
+121071,active,2019-03-18,44,approved,51124,31490
+121072,active,2019-03-29,33,approved,51125,31492
+121073,pending pickup,2019-04-23,8,approved,51128,31502
+121074,active,2019-04-30,1,approved,51132,31504
+121075,pending pickup,2019-04-01,30,approved,51133,31508
+121076,active,2019-04-26,5,approved,51143,31509
+121077,active,2019-05-01,0,approved,51150,31524
+121078,pending pickup,2019-04-24,7,approved,51165,31548
+121079,active,2019-04-24,7,approved,51172,31558
+121080,active,2019-04-29,2,approved,51178,31566
+121081,pending pickup,2019-04-27,4,approved,51183,31614
+121082,active,2019-05-01,0,approved,51188,31670
+121083,active,2019-04-30,1,approved,51192,31671
+121084,active,2019-05-01,0,approved,51195,31673
+121085,active,2019-04-30,1,approved,51202,31677
+121086,active,2019-04-12,19,approved,51213,31691
+121087,pending pickup,2019-04-28,3,approved,51217,31692
+121088,active,2019-03-26,36,approved,51218,31706
+121089,active,2019-03-04,58,approved,51220,31722
+121090,pending pickup,2019-04-07,24,approved,51226,31724
+121091,active,2019-04-24,7,approved,51231,31727
+121092,active,2019-03-05,57,approved,51232,31729
+121093,active,2019-04-07,24,approved,51238,31753
+121094,active,2019-04-30,1,approved,51240,31766
+121095,active,2019-03-08,54,approved,51241,31772
+121096,active,2019-04-26,5,approved,51244,31780
+121097,active,2019-04-30,1,approved,51255,31784
+121098,pending pickup,2019-04-20,11,approved,51258,31787
+121099,active,2019-02-05,85,approved,51270,31797
+121100,active,2019-04-20,11,approved,51001,31173
+121101,pending pickup,2019-04-16,15,approved,51024,31183
+121102,active,2019-04-28,3,approved,51027,31211
+121103,active,2019-04-29,2,approved,51057,31256
+121104,pending pickup,2019-04-26,5,approved,51068,31318
+121105,active,2019-03-08,54,approved,51087,31320
+121106,active,2019-04-30,1,approved,51097,31349
+121107,active,2019-04-27,4,approved,51104,31361
+121108,pending pickup,2019-05-01,0,approved,51129,31362
+121109,active,2019-04-24,7,approved,51139,31417
+121110,pending pickup,2019-04-26,5,approved,51164,31421
+121111,active,2019-05-01,0,approved,51175,31431
+121112,active,2019-04-26,5,approved,51235,31497
+121113,active,2019-04-13,18,approved,51248,31572
+121114,pending pickup,2019-04-06,25,approved,51325,31586
+121115,active,2019-04-27,4,approved,51330,31611
+121116,active,2019-04-01,30,approved,51347,31628
+121117,active,2019-04-30,1,approved,51010,31628
+121118,active,2019-04-26,5,approved,51011,31642
+121119,active,2019-04-19,12,approved,51019,31665
+121120,active,2019-04-20,11,approved,51021,31667
+121121,active,2019-04-29,2,approved,51030,31721
+121122,pending pickup,2019-04-29,2,approved,51032,31734
+121123,active,2019-02-21,69,approved,51034,31735
+121124,active,2019-04-30,1,approved,51040,31736
+121125,pending pickup,2019-04-26,5,approved,51046,31743
+121126,active,2019-04-29,2,approved,51055,31763
+121127,pending pickup,2019-04-22,9,approved,51056,31796
+121128,active,2019-04-19,12,approved,51063,31020
+121129,active,2019-04-23,8,approved,51064,31025
+121130,active,2019-04-28,3,approved,51076,31040
+121131,active,2019-04-30,1,approved,51077,31048
+121132,active,2019-04-03,28,approved,51079,31053
+121133,active,2019-04-30,1,approved,51091,31055
+121134,active,2019-03-24,38,approved,51148,31073
+121135,active,2019-04-23,8,approved,51171,31080
+121136,active,2019-04-23,8,approved,51176,31091
+121137,active,2019-04-15,16,approved,51209,31103
+121138,active,2019-04-18,13,approved,51212,31113
+121139,active,2019-04-16,15,approved,51214,31115
+121140,pending pickup,2019-04-18,13,approved,51224,31117
+121141,active,2019-05-01,0,approved,51247,31137
+121142,active,2019-03-02,60,approved,51252,31143
+121143,active,2019-02-15,75,approved,51267,31155
+121144,pending pickup,2019-03-14,48,approved,51280,31180
+121145,active,2019-05-01,0,approved,51306,31192
+121146,pending pickup,2019-04-23,8,approved,51314,31230
+121147,active,2019-05-01,0,approved,51315,31237
+121148,active,2019-04-26,5,approved,51320,31239
+121149,active,2019-04-30,1,approved,51332,31254
+121150,pending pickup,2019-05-01,0,approved,51344,31268
+121151,active,2019-04-07,24,approved,51276,31312
+121152,pending pickup,2019-03-06,56,approved,51282,31323
+121153,active,2019-04-27,4,approved,51283,31352
+121154,active,2019-04-22,9,approved,51284,31360
+121155,active,2019-02-26,64,approved,51287,31367
+121156,pending pickup,2019-04-30,1,approved,51297,31408
+121157,active,2019-04-20,11,approved,51303,31471
+121158,active,2019-04-28,3,approved,51322,31535
+121159,pending pickup,2019-04-12,19,approved,51327,31604
+121160,active,2019-05-01,0,approved,51339,31653
+121161,active,2019-04-29,2,approved,51342,31663
+121162,active,2019-04-26,5,approved,51346,31690
+121163,active,2019-04-22,9,approved,51287,31279
+121164,active,2019-05-01,0,approved,51297,31280
+121165,pending pickup,2019-03-17,45,approved,51322,31328
+121166,active,2019-03-13,49,approved,51063,31334
+121167,pending pickup,2019-05-01,0,approved,51064,31356
+121168,pending pickup,2019-05-01,0,approved,51076,31366
+121169,pending pickup,2019-05-01,0,approved,51077,31374
+121170,active,2019-04-17,14,approved,51079,31381
+121171,active,2019-02-11,79,approved,51091,31382
+121172,active,2019-02-13,77,approved,51148,31384
+121173,pending pickup,2019-04-29,2,approved,51171,31426
+121174,pending pickup,2019-04-23,8,approved,51176,31429
+121175,pending pickup,2019-02-15,75,approved,51209,31433
+121176,pending pickup,2019-05-01,0,approved,51212,31446
+121177,active,2019-04-28,3,approved,51214,31464
+121178,active,2019-04-28,3,approved,51224,31469
+121179,active,2019-04-25,6,approved,51247,31473
+121180,active,2019-04-13,18,approved,51252,31493
+121181,active,2019-04-18,13,approved,51267,31498
+121182,pending pickup,2019-02-12,78,approved,51280,31512
+121183,active,2019-04-18,13,approved,51306,31519
+121184,pending pickup,2019-04-25,6,approved,51314,31538
+121185,active,2019-03-25,37,approved,51315,31559
+121186,active,2019-03-26,36,approved,51320,31570
+121187,pending pickup,2019-03-30,32,approved,51332,31575
+121188,pending pickup,2019-04-30,1,approved,51344,31576
+121189,pending pickup,2019-04-20,11,approved,51322,31583
+121190,active,2019-04-04,27,approved,51063,31600
+121191,pending pickup,2019-04-29,2,approved,51076,31616
+121192,active,2019-05-01,0,approved,51077,31625
+121193,pending pickup,2019-05-01,0,approved,51091,31635
+121194,active,2019-03-20,42,approved,51171,31637
+121195,active,2019-04-28,3,approved,51224,31638
+121196,active,2019-04-20,11,approved,51252,31643
+121197,active,2019-03-22,40,approved,51267,31658
+121198,pending pickup,2019-04-30,1,approved,51280,31660
+121199,pending pickup,2019-04-15,16,approved,51306,31666
+121200,active,2019-04-28,3,approved,51314,31700
+121201,pending pickup,2019-04-15,16,approved,51315,31703
+121202,active,2019-03-19,43,approved,51332,31715
+121203,active,2019-04-05,26,approved,51344,31726
+121204,active,2019-04-20,11,approved,51076,31740
+121205,pending pickup,2019-04-26,5,approved,51077,31749
+121206,active,2019-04-23,8,approved,51224,31751
+121207,active,2019-03-19,43,approved,51252,31754
+121208,pending pickup,2019-04-30,1,approved,51267,31776
+121209,active,2019-03-19,43,approved,51314,31778
+121210,active,2019-04-28,3,approved,51315,31785
+121211,pending pickup,2019-04-28,3,approved,51332,31786
+121212,pending pickup,2019-02-22,68,approved,51224,31794
+121213,not active,NULL,NULL,awaiting approval,51004,31005
+121214,not active,NULL,NULL,awaiting approval,51005,31010
+121215,not active,NULL,NULL,awaiting approval,51008,31056
+121216,not active,NULL,NULL,awaiting approval,51009,31057
+121217,not active,NULL,NULL,awaiting approval,51012,31068
+121218,not active,NULL,NULL,awaiting approval,51013,31087
+121219,not active,NULL,NULL,awaiting approval,51017,31102
+121220,not active,NULL,NULL,awaiting approval,51020,31116
+121221,not active,NULL,NULL,awaiting approval,51023,31127
+121222,not active,NULL,NULL,awaiting approval,51029,31131
+121223,not active,NULL,NULL,awaiting approval,51031,31139
+121224,not active,NULL,NULL,awaiting approval,51035,31141
+121225,not active,NULL,NULL,awaiting approval,51036,31151
+121226,not active,NULL,NULL,awaiting approval,51037,31153
+121227,not active,NULL,NULL,awaiting approval,51042,31165
+121228,not active,NULL,NULL,awaiting approval,51043,31166
+121229,not active,NULL,NULL,awaiting approval,51044,31216
+121230,not active,NULL,NULL,awaiting approval,51047,31217
+121231,not active,NULL,NULL,awaiting approval,51050,31226
+121232,not active,NULL,NULL,awaiting approval,51051,31232
+121233,not active,NULL,NULL,awaiting approval,51053,31250
+121234,not active,NULL,NULL,awaiting approval,51058,31257
+121235,not active,NULL,NULL,awaiting approval,51059,31258
+121236,not active,NULL,NULL,awaiting approval,51061,31267
+121237,not active,NULL,NULL,awaiting approval,51067,31269
+121238,not active,NULL,NULL,awaiting approval,51069,31281
+121239,not active,NULL,NULL,awaiting approval,51070,31300
+121240,not active,NULL,NULL,awaiting approval,51075,31329
+121241,not active,NULL,NULL,awaiting approval,51085,31339
+121242,not active,NULL,NULL,awaiting approval,51086,31341
+121243,not active,NULL,NULL,awaiting approval,51088,31345
+121244,not active,NULL,NULL,awaiting approval,51095,31346
+121245,not active,NULL,NULL,awaiting approval,51103,31355
+121246,not active,NULL,NULL,awaiting approval,51105,31388
+121247,not active,NULL,NULL,awaiting approval,51106,31409
+121248,not active,NULL,NULL,awaiting approval,51107,31412
+121249,not active,NULL,NULL,awaiting approval,51112,31423
+121250,not active,NULL,NULL,awaiting approval,51115,31445
+121251,not active,NULL,NULL,awaiting approval,51116,31448
+121252,not active,NULL,NULL,awaiting approval,51118,31454
+121253,not active,NULL,NULL,awaiting approval,51119,31462
+121254,not active,NULL,NULL,awaiting approval,51122,31481
+121255,not active,NULL,NULL,awaiting approval,51127,31500
+121256,not active,NULL,NULL,awaiting approval,51130,31511
+121257,not active,NULL,NULL,awaiting approval,51134,31520
+121258,not active,NULL,NULL,awaiting approval,51135,31528
+121259,not active,NULL,NULL,awaiting approval,51137,31537
+121260,not active,NULL,NULL,awaiting approval,51140,31543
+121261,not active,NULL,NULL,awaiting approval,51145,31544
+121262,not active,NULL,NULL,awaiting approval,51151,31545
+121263,not active,NULL,NULL,awaiting approval,51153,31556
+121264,not active,NULL,NULL,awaiting approval,51156,31565
+121265,not active,NULL,NULL,awaiting approval,51158,31568
+121266,not active,NULL,NULL,awaiting approval,51159,31569
+121267,not active,NULL,NULL,awaiting approval,51160,31574
+121268,not active,NULL,NULL,awaiting approval,51161,31584
+121269,not active,NULL,NULL,awaiting approval,51173,31590
+121270,not active,NULL,NULL,awaiting approval,51177,31598
+121271,not active,NULL,NULL,awaiting approval,51180,31610
+121272,not active,NULL,NULL,awaiting approval,51181,31631
+121273,not active,NULL,NULL,awaiting approval,51184,31633
+121274,not active,NULL,NULL,awaiting approval,51185,31639
+121275,not active,NULL,NULL,awaiting approval,51186,31655
+121276,not active,NULL,NULL,awaiting approval,51189,31657
+121277,not active,NULL,NULL,awaiting approval,51191,31661
+121278,not active,NULL,NULL,awaiting approval,51194,31678
+121279,not active,NULL,NULL,awaiting approval,51198,31679
+121280,not active,NULL,NULL,awaiting approval,51199,31681
+121281,not active,NULL,NULL,awaiting approval,51210,31684
+121282,not active,NULL,NULL,awaiting approval,51211,31686
+121283,not active,NULL,NULL,awaiting approval,51216,31687
+121284,not active,NULL,NULL,awaiting approval,51221,31689
+121285,not active,NULL,NULL,awaiting approval,51223,31695
+121286,not active,NULL,NULL,awaiting approval,51225,31702
+121287,not active,NULL,NULL,awaiting approval,51227,31704
+121288,not active,NULL,NULL,awaiting approval,51228,31730
+121289,not active,NULL,NULL,awaiting approval,51229,31732
+121290,not active,NULL,NULL,awaiting approval,51234,31733
+121291,not active,NULL,NULL,awaiting approval,51239,31737
+121292,not active,NULL,NULL,awaiting approval,51243,31747
+121293,not active,NULL,NULL,awaiting approval,51249,31748
+121294,not active,NULL,NULL,awaiting approval,51251,31777
+121295,not active,NULL,NULL,awaiting approval,51253,31781
+121296,not active,NULL,NULL,awaiting approval,51256,31789

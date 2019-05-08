@@ -1,0 +1,9 @@
+animalId,animalName,location,age,ageStatus,microchipId,species,breed1,breed2,sex,color1,color2,size,sterilized,vaccinated,houseTrained,registrationDate,shelterTenure,specialNeeds,goodWithDogs,goodWithCats,goodWithOther,goodWithChildren,fosterStatus
+31833,Wilfred Warrior,shelter,72,adult,asdfasdf,cat,Persian,,male,gray,,small,yes,yes,yes,,,no,no,yes,yes,yes,Available to foster
+31834,Lil Bub,shelter,56,adult,asdfasdf,cat,Mixed Breed,,female,brown,golden,small,yes,yes,yes,,,yes,no,no,no,no,Available to foster
+31835,Tartar Sauce,shelter,19,adult,asdfasdf,cat,Mixed Breed,,female,brown,cream,small,yes,yes,yes,,,no,yes,yes,yes,yes,Available to foster
+31836,Maru,shelter,46,adult,asdfasdf,cat,Scottish Fold,,male,gray,white,medium,yes,yes,yes,,,no,yes,yes,yes,yes,Available to foster
+31837,Colonel Meow,shelter,24,adult,asdfasdf,cat,Himalayan,,male,gray,white,medium,yes,yes,yes,,,no,yes,yes,yes,yes,Available to foster
+31838,Griffin,shelter,12,young,asdfasdf,cat,Mixed Breed,,male,golden,cream,medium,yes,yes,yes,,,no,yes,yes,yes,yes,Available to foster
+31839,Natsu,shelter,36,adult,asdfasdf,cat,Mixed Breed,,female,black,white,medium,yes,yes,yes,,,no,yes,yes,yes,yes,Available to foster
+31840,Isa,shelter,12,young,asdfasdf,cat,Fijian Island Cat,,female,brown,golden,medium,yes,yes,yes,,,no,no,no,no,yes,Available to foster

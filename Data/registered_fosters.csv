@@ -1,0 +1,351 @@
+fosterId,lastName,firstName,emailAddress,gender,userAddress,userCity,userState,userZipCode,phone,birthDate,employmentStatus,fosterActivity,specialNeedsExp,hoursAway,applicationId
+51000,Kongsomboonvech,Kelsey,KongsomboonvechK@msn.com,female,834 Cabell Ct,Springfield,VA,22150,152-735-2365,1950-10-06,Retired,Active Foster,no,9,61100
+51001,Peterson,Katarina,PetersonK@gmail.com,female,12806 Madeley Ct,Fairfax,VA,22033,176-937-8756,1952-04-18,Unemployed,Active Foster,yes,12,61101
+51002,Bell,Brianna,BellB@aol.com,female,501 3rd St NW,Washington,DC,20001,581-816-3287,1958-08-11,Retired,Active Foster,no,6,61102
+51003,el-Hashim,Saalima,el-HashimS@msn.com,female,2400 Queens Chapel Rd,Hyattsville,MD,20782,645-854-7391,2004-02-29,Retired,Active Foster,yes,12,61103
+51004,el-Minhas,Azza,el-MinhasA@gmail.com,female,3601 Newark St NW,Washington,DC,20016,871-361-1896,1971-11-27,Employed,Inactive Foster,yes,12,61104
+51005,Cornejo,Tiana,CornejoT@aol.com,female,4283 Fox Lake Dr,Fairfax,VA,22030,496-973-7514,1978-07-10,Unemployed,Inactive Foster,yes,8,61105
+51006,Trujillo,Maria,TrujilloM@aol.com,female,7205 Arrowood Rd,Bethesda,MD,20817,795-467-4153,1948-09-13,Student,Active Foster,no,5,61106
+51007,al-Rahaim,Abeer,al-RahaimA@msn.com,female,3301 Fessenden St NW,Washington,DC,20008,732-621-1769,2003-09-12,Student,Active Foster,no,4,61107
+51008,Villalobos Gonzalez,Leticia,Villalobos GonzalezL@gmail.com,female,1402 S St NW,Washington,DC,20009,163-196-7168,2000-11-25,Retired,Inactive Foster,no,3,61108
+51009,Elhussen,Tiara,ElhussenT@aol.com,female,707 Larchmont Ave,Capitol Heights,MD,20743,976-847-5431,1999-09-25,Student,Inactive Foster,no,5,61109
+51010,al-Rasul,Zumruda,al-RasulZ@msn.com,female,7541 Leesburg Pike,Falls Church,VA,22043,246-374-3158,2000-07-11,Student,Active Foster,yes,9,61110
+51011,Richardson,Hannah,RichardsonH@gmail.com,female,1924 8th St NW,Washington,DC,20001,241-362-4721,1978-02-21,Employed,Active Foster,no,10,61111
+51012,Schill,Krista,SchillK@aol.com,female,901 17th St NE,Washington,DC,20002,831-694-4387,1968-03-26,Employed,Inactive Foster,no,4,61112
+51013,Viurquez-Flores,Tonya,Viurquez-FloresT@aol.com,female,1211 Glebe Rd,Arlington,VA,22201,413-869-1253,1962-10-16,Unemployed,Inactive Foster,no,9,61113
+51014,Salazar,Karlena,SalazarK@msn.com,female,1800 N Oak St,Arlington,VA,22209,517-274-6935,1961-11-06,Employed,Active Foster,no,4,61114
+51015,al-Minhas,Abeer,al-MinhasA@gmail.com,female,1810 N Moore St,Arlington,VA,22209,781-695-8796,1980-09-13,Employed,Active Foster,no,6,61115
+51016,Le,Sophia,LeS@aol.com,female,1320N Veitch St,Arlington,VA,22201,852-537-7613,1951-05-26,Employed,Active Foster,no,8,61116
+51017,Lehi,Misty,LehiM@aol.com,female,5340 Holmes Run Pkwy,Alexandria,VA,22304,289-712-9652,1990-01-13,Student,Inactive Foster,yes,9,61117
+51018,Khan-Akbari,Pa Ying,Khan-AkbariP@msn.com,female,13205 Franklin View Ct,Fairfax,VA,22033,852-689-5496,1948-03-23,Employed,Active Foster,no,10,61118
+51019,al-Badour,Khaira,al-BadourK@msn.com,female,9931 Great Oaks Way,Fairfax,VA,22030,583-589-1243,1951-08-07,Employed,Active Foster,yes,9,61119
+51020,al-Rassi,Umaira,al-RassiU@gmail.com,female,7342 Heatherhill Ct,Bethesda,MD,20817,941-936-2391,1969-01-04,Employed,Inactive Foster,yes,6,61120
+51021,Schmitt,Hannah,SchmittH@aol.com,female,2815 Woodland Dr NW,Washington,DC,20008,936-492-2943,1993-05-15,Employed,Active Foster,yes,11,61121
+51022,Rico,Adora,RicoA@aol.com,female,629 4th ST NE,Washington,DC,20002,271-798-6329,1947-04-10,Student,Inactive Foster,no,6,61122
+51023,al-Haque,Raadiya,al-HaqueR@msn.com,female,731 Upland Pl,Alexandria,VA,22314,582-182-6179,1981-02-20,Employed,Inactive Foster,yes,3,61123
+51024,Gonzalez,Jennifer,GonzalezJ@gmail.com,female,3138 Barkely Dr,Fairfax,VA,22031,192-248-7293,1971-04-04,Employed,Active Foster,no,9,61124
+51025,Leigh,Samantha,LeighS@aol.com,female,2605 Midway St,Falls Church,VA,22046,572-832-3726,1955-10-05,Unemployed,Active Foster,no,9,61125
+51026,Mendoza,Alejandra,MendozaA@aol.com,female,3222 Cherry Hill Ln NW,Washington,DC,20007,269-659-4139,1951-11-12,Retired,Inactive Foster,no,8,61126
+51027,Villanueva,Natalia,VillanuevaN@msn.com,female,834 Cabell Ct,Springfield,VA,22150,568-793-2186,1994-07-30,Employed,Active Foster,no,9,61127
+51028,Kwon,Kayla,KwonK@gmail.com,female,155 Hillwood Avenue,Falls Church,VA,22046,497-468-2135,1976-01-17,Retired,Inactive Foster,no,11,61128
+51029,Deere,Trina,DeereT@gmail.com,female,1924 8th St NW,Washington,DC,20001,983-265-4726,1947-04-11,Employed,Inactive Foster,no,2,61129
+51030,el-Allee,Israa,el-AlleeI@aol.com,female,901 17th St NE,Washington,DC,20002,571-821-2651,1951-06-28,Student,Active Foster,no,8,61130
+51031,el-Abdallah,Safwa,el-AbdallahS@aol.com,female,1211 Glebe Rd,Arlington,VA,22201,735-351-4985,1968-05-01,Student,Inactive Foster,no,6,61131
+51032,Toler,Angelika,TolerA@msn.com,female,1800 N Oak St,Arlington,VA,22209,736-847-1742,2008-10-17,Employed,Active Foster,no,2,61132
+51033,Mcfarland,Jane,McfarlandJ@gmail.com,female,1810 N Moore St,Arlington,VA,22209,974-294-4763,1986-02-06,Employed,Active Foster,no,10,61133
+51034,Swift,Elizabeth,SwiftE@aol.com,female,1320N Veitch St,Arlington,VA,22201,325-614-6537,1957-09-24,Employed,Active Foster,no,7,61134
+51035,Halliburton,De Ja,HalliburtonD@msn.com,female,4123 Village Ct,Annandale,VA,22033,258-165-7384,1980-12-18,Employed,Inactive Foster,no,6,61135
+51036,Jaramillo,Jessica,JaramilloJ@aol.com,female,500 N Roosevelt St,Falls Church,VA,22044,932-349-3956,1991-10-08,Retired,Inactive Foster,no,10,61136
+51037,Ha,Kyleigh,HaK@aol.com,female,500 N Roosevelt St,Falls Church,VA,22044,594-761-2834,1998-03-23,Employed,Inactive Foster,no,12,61137
+51038,Iritani,Angela,IritaniA@gmail.com,female,2724 S Arlington Ridge Rd,Arlington,VA,22202,928-679-2167,1992-01-02,Unemployed,Active Foster,no,10,61138
+51039,Wong,Sara,WongS@aol.com,female,2400 Queens Chapel Rd,Hyattsville,MD,20782,423-576-4176,1956-03-04,Employed,Active Foster,no,11,61139
+51040,Clark,Mackenzie,ClarkM@aol.com,female,950 25th St NW,Washington,DC,20037,685-295-9273,1964-03-29,Retired,Active Foster,yes,3,61140
+51041,Carter,Camara,CarterC@gmail.com,female,5603 Cypress Creek Dr,Chillum,MD,20782,178-832-2391,2005-03-24,Employed,Active Foster,no,9,61141
+51042,Watkins,Chevantey,WatkinsC@msn.com,female,5603 Cypress Creek Dr,Chillum,MD,20783,168-198-2896,1970-01-02,Employed,Inactive Foster,no,10,61142
+51043,Hilts,Natalya,HiltsN@aol.com,female,5340 Holmes Run Pkwy,Alexandria,VA,22304,357-157-3971,1968-04-06,Employed,Inactive Foster,no,11,61143
+51044,Vogltanz,Brianna,VogltanzB@aol.com,female,4101 Kaywood Pl,Mt Rainier,MD,20712,542-526-7182,1988-12-13,Unemployed,Inactive Foster,yes,2,61144
+51045,Jacket,Shania,JacketS@gmail.com,female,4101 Kaywood Pl,Mt Rainier,MD,20713,982-917-1824,1980-11-20,Employed,Active Foster,no,7,61145
+51046,Khanthavong,Ashley,KhanthavongA@msn.com,female,6706 Farragut Ave,Falls Church,VA,22042,731-736-5817,1983-07-26,Employed,Active Foster,yes,4,61146
+51047,Fabela,Nasteh,FabelaN@aol.com,female,3001 Branch Ave,Hillcrest Heights,MD,20748,651-714-9175,1979-06-04,Employed,Inactive Foster,yes,7,61147
+51048,Duong,Ashley,DuongA@aol.com,female,2740 32nd St NW,Washington,DC,20008,827-736-9817,1981-07-03,Employed,Inactive Foster,no,3,61148
+51049,el-Shehadeh,Sitaara,el-ShehadehS@msn.com,female,4545 Wheeler Rd,Glassmanor,MD,20745,249-752-4973,1986-02-08,Employed,Active Foster,yes,5,61149
+51050,Kasper,Taylor,KasperT@aol.com,female,831 Rock Creek Church Rd NW,Washington,DC,20010,946-739-5348,1964-02-09,Employed,Inactive Foster,no,10,61150
+51051,Burns,Shaqua,BurnsS@aol.com,female,3301 King St,Alexandria,VA,22302,894-421-7612,1989-01-13,Employed,Inactive Foster,no,4,61151
+51052,Smith,Marybeth,SmithM@gmail.com,female,3466 Brinkley Rd,Temple Hills,MD,20748,931-751-3721,1967-01-13,Student,Inactive Foster,no,9,61152
+51053,Pinnecoose,Angelique,PinnecooseA@msn.com,female,13205 Franklin View Ct,Fairfax,VA,22033,753-487-2514,1995-04-27,Employed,Inactive Foster,no,2,61153
+51054,Cardenas,Marianne,CardenasM@aol.com,female,4608 Battenburg Ln,Fairfax,VA,22030,271-273-5869,2002-01-21,Employed,Active Foster,no,5,61154
+51055,Siddiqui,Allison,SiddiquiA@aol.com,female,10833 Verde Vista Dr,Fairfax,VA,22030,619-781-8396,1970-12-15,Unemployed,Active Foster,no,4,61155
+51056,Vigil,Maggie Rose,VigilM@gmail.com,female,12312 Field Lark Ln,Fairfax,VA,22030,215-178-2967,1975-09-06,Employed,Active Foster,no,10,61156
+51057,Powell,Alisha,PowellA@msn.com,female,9459 Fairfax Blvd,Fairfax,VA,22031,349-639-4318,2003-08-04,Student,Active Foster,no,8,61157
+51058,al-Pirani,Juwairiya,al-PiraniJ@aol.com,female,10809 Carol St,Fairfax,VA,22030,632-934-2643,1973-07-29,Unemployed,Inactive Foster,no,10,61158
+51059,Mitchell,Daianna,MitchellD@gmail.com,female,3138 Barkley Dr,Fairfax,VA,22031,631-981-5813,1979-09-28,Student,Inactive Foster,no,12,61159
+51060,Lamar,Anahi,LamarA@msn.com,female,13108 Poplar Tree Rd,Fairfax,VA,22033,589-176-8719,1949-07-28,Retired,Active Foster,no,5,61160
+51061,Eberhart,Taylor,EberhartT@aol.com,female,2933 Everleigh Way,Fairfax,VA,22031,687-236-9617,1976-12-01,Employed,Inactive Foster,no,11,61161
+51062,Harrison,Sarra,HarrisonS@aol.com,female,10825 Crest St,Fairfax,VA,22030,432-825-7852,1983-03-15,Employed,Active Foster,yes,5,61162
+51063,Farmer,Katherine,FarmerK@gmail.com,female,12806 Madeley Ct,Fairfax,VA,22033,192-812-9567,1990-09-19,Employed,Active Foster,no,1,61163
+51064,Rosenlof,Kristin,RosenlofK@msn.com,female,9931 Great Oaks Way,Fairfax,VA,22030,749-951-6714,1991-05-07,Employed,Active Foster,no,1,61164
+51065,Johnson,Janee,JohnsonJ@aol.com,female,4617 Carsbrooke Ln,Fairfax,VA,22030,923-134-3574,2004-11-22,Student,Inactive Foster,no,9,61165
+51066,Marshall,Jenna,MarshallJ@aol.com,female,13116 Pennerview Ln,Fairfax,VA,22033,265-349-8562,1990-04-17,Employed,Active Foster,no,11,61166
+51067,Pelz,Kayla,PelzK@gmail.com,female,12703 Sabastian Dr,Fairfax,VA,22030,281-682-9127,1981-01-22,Employed,Inactive Foster,no,12,61167
+51068,Berg,Jessica,BergJ@msn.com,female,10003 Five Oaks Rd,Fairfax,VA,22031,986-342-7645,1967-03-21,Employed,Active Foster,yes,6,61168
+51069,Stibbs,Tamikah,StibbsT@aol.com,female,5912 Melvern Dr,Bethesda,MD,20817,926-764-6749,1955-06-15,Retired,Inactive Foster,no,2,61169
+51070,Barnhill,Nadezhda,BarnhillN@gmail.com,female,6208 Bradley Blvd,Bethesda,MD,20817,782-251-2395,1980-03-17,Student,Inactive Foster,no,3,61170
+51071,Gutierrez,Paola,GutierrezP@msn.com,female,4504 N Chelsea Ln,Bethesda,MD,20814,792-248-6419,1954-06-28,Student,Active Foster,yes,4,61171
+51072,Dayton,Julia,DaytonJ@aol.com,female,6832 Tulip Hill Ter,Bethesda,MD,20816,976-459-1689,1963-08-25,Retired,Active Foster,no,6,61172
+51073,Foster,Pari,FosterP@aol.com,female,113 S Brook Ln,Bethesda,MD,20814,945-763-3419,1957-09-10,Employed,Inactive Foster,no,6,61173
+51074,Bergner,Keona,BergnerK@gmail.com,female,7342 Heatherhill Ct,Bethesda,MD,20817,627-253-2375,1965-02-28,Employed,Active Foster,no,4,61174
+51075,Jennings,Haleema,JenningsH@msn.com,female,5304 Ventnor Rd,Bethesda,MD,20816,485-579-4957,1956-11-30,Employed,Inactive Foster,no,10,61175
+51076,Bond,Charnae,BondC@aol.com,female,4609 Maple Ave,Bethesda,MD,20814,459-687-8236,1974-11-17,Employed,Active Foster,yes,4,61176
+51077,Garcia,Jennifer,GarciaJ@aol.com,female,9217 E Parkhill Dr,Bethesda,MD,20814,968-613-5478,1960-10-13,Employed,Active Foster,no,3,61177
+51078,Mitchell,Chantal,MitchellC@gmail.com,female,8017 Park Ln,Bethesda,MD,20814,193-376-7429,1952-01-26,Employed,Active Foster,no,2,61178
+51079,Iron Wing,Nizhoni,Iron WingN@aol.com,female,3005 Chancellors Way NE,Washington,DC,20017,248-481-8123,1960-03-08,Retired,Active Foster,no,9,61179
+51080,Kim,Thaleia,KimT@aol.com,female,1607 28th St NW,Washington,DC,20007,721-296-7561,1967-07-30,Student,Active Foster,no,7,61180
+51081,Hill,Allison,HillA@gmail.com,female,7201 Dulany Ct,Mclean,VA,22101,431-462-6293,1968-06-20,Employed,Active Foster,no,8,61181
+51082,Lofton,Britney,LoftonB@msn.com,female,2030 N Quinn St,Arlington,VA,22209,178-653-1645,1996-12-31,Retired,Active Foster,no,2,61182
+51083,Scott,Katie,ScottK@aol.com,female,1526 17th St NW,Washington,DC,20036,546-718-8493,1984-04-01,Retired,Active Foster,yes,10,61183
+51084,Lenard,Marina,LenardM@aol.com,female,2815 Woodland Dr NW,Washington,DC,20008,652-634-4287,1957-07-15,Employed,Active Foster,no,3,61184
+51085,Yirdaw,Imani,YirdawI@gmail.com,female,900 N Taylor St,Arlington,VA,22203,453-932-5374,1999-11-14,Unemployed,Inactive Foster,no,11,61185
+51086,al-Tahir,Musfira,al-TahirM@msn.com,female,4400 Garfield St NW,Washington,DC,20007,431-534-8215,2006-12-05,Employed,Inactive Foster,no,2,61186
+51087,al-Baig,Saahira,al-BaigS@aol.com,female,1439 Shippen Ln SE,Washington,DC,20020,271-879-4372,1963-05-31,Unemployed,Active Foster,no,10,61187
+51088,el-Ramadan,Raihaana,el-RamadanR@aol.com,female,3528 Albemarle St NW,Washington,DC,20008,958-743-4352,1995-11-04,Employed,Inactive Foster,no,2,61188
+51089,Le,Annick,LeA@msn.com,female,1000 New Jersey Ave SE,Washington,DC,20003,625-652-4329,1966-08-19,Retired,Active Foster,yes,7,61189
+51090,Holt,Gracie,HoltG@aol.com,female,1661 Crescent Pl NW,Washington,DC,20009,124-598-9875,1996-10-30,Student,Active Foster,no,8,61190
+51091,Vigil,Krystal,VigilK@aol.com,female,1207 Buchanan St,Mclean,VA,22101,782-714-7128,1954-11-04,Employed,Active Foster,no,5,61191
+51092,Jones-Malone,Diandra,Jones-MaloneD@gmail.com,female,6478 Oakwood Dr,Falls Church,VA,22041,835-723-4651,2001-11-25,Student,Active Foster,no,7,61192
+51093,Evans,Theresa,EvansT@msn.com,female,3117 Graydon St,Falls Church,VA,22042,348-638-9582,2000-05-18,Retired,Inactive Foster,no,6,61193
+51094,Roberts,Vahine,RobertsV@aol.com,female,629 4th ST NE,Washington,DC,20002,463-524-9132,2002-07-03,Employed,Active Foster,no,4,61194
+51095,Park,Kinsey,ParkK@aol.com,female,4319 18th St NW,Washington,DC,22011,615-138-4978,1947-12-12,Employed,Inactive Foster,no,10,61195
+51096,Munio,Kelsie,MunioK@gmail.com,female,3246 S Utah St,Arlington,VA,22206,379-786-1348,1949-06-19,Student,Active Foster,yes,11,61196
+51097,Echohawk,Jera,EchohawkJ@msn.com,female,4017 22nd St N,Arlington,VA,22207,875-571-3267,1966-06-05,Student,Active Foster,no,8,61197
+51098,Henderson,Rahimah,HendersonR@aol.com,female,2228 Mclean Park Rd,Falls Church,VA,22043,563-697-9452,1951-11-11,Employed,Active Foster,no,7,61198
+51099,Clark,Brenda,ClarkB@aol.com,female,653 Morton Pl NE,Washington,DC,20002,528-937-7256,1990-04-17,Employed,Active Foster,no,7,61199
+51100,Campos-Castro,Lizdemar,Campos-CastroL@gmail.com,female,3326 E St SE,Washington,DC,20019,741-973-2763,1996-11-01,Retired,Active Foster,no,11,61200
+51101,Costello,Kathryn,CostelloK@msn.com,female,5400 Cathedral Ave NW,Washington,DC,20016,624-823-7213,1996-06-23,Unemployed,Active Foster,no,2,61201
+51102,Thomas,Courtney,ThomasC@aol.com,female,5886 Leesburg Pike,Falls Church,VA,22041,481-759-7623,1981-05-05,Retired,Active Foster,no,2,61202
+51103,al-Salam,Raita,al-SalamR@aol.com,female,7451 Patterson Rd,Falls Church,VA,22043,187-365-6892,1991-01-16,Employed,Inactive Foster,yes,3,61203
+51104,Temple,Myanne,TempleM@gmail.com,female,809 Graham Rd,Falls Church,VA,22042,512-249-5843,1971-02-07,Student,Active Foster,no,9,61204
+51105,el-Kamara,Zaitoona,el-KamaraZ@msn.com,female,6211 Leesburg Pike,Falls Church,VA,22044,574-236-1853,1987-12-30,Employed,Inactive Foster,no,7,61205
+51106,al-Hammad,Manaahil,al-HammadM@aol.com,female,843 Cabell Avenue,Charlottesville,VA,22903,189-648-7496,1991-10-21,Student,Inactive Foster,yes,1,61206
+51107,Corral Rocha,Karla,Corral RochaK@aol.com,female,5840 Crossroads Ctr,Falls Church,VA,22041,954-916-4531,1986-04-06,Employed,Inactive Foster,no,8,61207
+51108,Hester,Tymiya,HesterT@gmail.com,female,155 Hillwood Avenue,Falls Church,VA,22046,817-798-5821,1987-08-10,Retired,Active Foster,no,6,61208
+51109,Arguello,Charlotte,ArguelloC@aol.com,female,5300 Wisconsin Ave NW,Washington,DC,20015,972-145-1826,1989-02-01,Employed,Inactive Foster,no,2,61209
+51110,al-Sulaiman,Faseeha,al-SulaimanF@aol.com,female,1201 G St NW,Washington,DC,20005,346-347-2654,1954-08-17,Employed,Active Foster,no,9,61210
+51111,Manglona,Marisa,ManglonaM@gmail.com,female,5333 Wisconsin Ave NW,Washington,DC,20015,127-239-3216,1977-04-23,Employed,Active Foster,no,1,61211
+51112,Masingale,Santee,MasingaleS@msn.com,female,2747 Martin Luther King Jr Ave SE,Washington,DC,20032,384-183-1836,1963-07-29,Retired,Inactive Foster,yes,11,61212
+51113,el-Mannan,Nadiyya,el-MannanN@aol.com,female,3921 S Capitol St SW,Washington,DC,20032,295-368-3578,2010-12-28,Retired,Active Foster,no,4,61213
+51114,Sciortino,Sarah,SciortinoS@aol.com,female,1608 20th St NW,Washington,DC,20009,846-832-6371,1996-03-15,Employed,Active Foster,no,8,61214
+51115,Otero,Tiana,OteroT@gmail.com,female,5100 Wisconsin Ave NW,Washington,DC,20016,923-657-1576,2003-05-04,Retired,Inactive Foster,no,11,61215
+51116,Sanchez,Anna Cynthia,SanchezA@msn.com,female,1440 P St NW,Washington,DC,20005,472-645-6983,1982-03-22,Employed,Inactive Foster,no,11,61216
+51117,al-Awan,Haniyya,al-AwanH@aol.com,female,1345 Park Rd NW,Washington,DC,20010,453-253-8192,1964-09-13,Retired,Active Foster,no,6,61217
+51118,Candelaria,Cassandra,CandelariaC@aol.com,female,501 3rd St NW,Washington,DC,20001,745-579-2817,2003-12-15,Employed,Inactive Foster,yes,5,61218
+51119,Byrd,Jordan,ByrdJ@msn.com,female,1317 Pennsylvania Ave SE,Washington,DC,20003,972-438-3826,1980-02-27,Employed,Inactive Foster,yes,2,61219
+51120,Baca,Stephanie,BacaS@aol.com,female,4616 14th St NW,Washington,DC,20011,916-596-3187,1967-08-24,Employed,Active Foster,yes,5,61220
+51121,Kim,Sana,KimS@aol.com,female,826 18th St NW,Washington,DC,20006,387-862-1963,1960-04-26,Employed,Active Foster,no,10,61221
+51122,Hankawa,Joan,HankawaJ@gmail.com,female,1101 25th St NW,Washington,DC,20037,967-251-6348,2009-12-17,Student,Inactive Foster,no,9,61222
+51123,Iantorno,Judy,IantornoJ@msn.com,female,1319 18th St NW,Washington,DC,20036,738-748-3857,2007-08-07,Student,Active Foster,yes,6,61223
+51124,Laduke Blue,Khadijha,Laduke BlueK@aol.com,female,1807 18th St NW,Washington,DC,20009,748-627-2549,1983-01-14,Employed,Active Foster,no,6,61224
+51125,el-Naderi,Muneera,el-NaderiM@aol.com,female,300 Morse St NE,Washington,DC,20002,821-678-1237,1972-09-10,Employed,Active Foster,no,5,61225
+51126,Holiday,Jasmine,HolidayJ@gmail.com,female,516 23rd St NW,Washington,DC,20037,152-372-6437,1979-08-17,Retired,Inactive Foster,no,8,61226
+51127,Krpan,Kimberly,KrpanK@msn.com,female,529 14th St NW,Washington,DC,20045,635-281-2934,1960-12-02,Student,Inactive Foster,no,3,61227
+51128,Todd,Shelbie,ToddS@aol.com,female,3100 14th St NW,Washington,DC,20010,894-184-8541,1960-04-13,Employed,Active Foster,no,2,61228
+51129,Wallman,Erin,WallmanE@gmail.com,female,94 Palmer Aly NW,Washington,DC,20001,156-759-9328,1993-01-09,Student,Active Foster,no,8,61229
+51130,Carrillo,Karla,CarrilloK@msn.com,female,1548 Benning Rd NE,Washington,DC,20002,579-962-3627,1948-08-20,Retired,Inactive Foster,yes,6,61230
+51131,al-Moradi,Lubaaba,al-MoradiL@aol.com,female,2305 Rhode Island Ave NE,Washington,DC,20018,928-754-7682,2000-07-25,Employed,Active Foster,yes,8,61231
+51132,Brandon,Carolina,BrandonC@aol.com,female,1251 9th St NW,Washington,DC,20001,981-738-1729,1980-03-29,Employed,Active Foster,yes,8,61232
+51133,Nelson,Cera,NelsonC@gmail.com,female,908 17th St NW,Washington,DC,20006,213-258-3852,2007-12-21,Employed,Active Foster,no,2,61233
+51134,Trujillo,Ashley,TrujilloA@msn.com,female,111 19th St NW,Washington,DC,20036,753-219-6219,1982-03-24,Student,Inactive Foster,no,11,61234
+51135,Navarro,Emma,NavarroE@aol.com,female,1230 New York Ave NE,Washington,DC,20002,875-798-7345,2008-09-05,Employed,Inactive Foster,yes,5,61235
+51136,Ayers,Kelsey,AyersK@aol.com,female,3030 M St NW,Washington,DC,20007,453-239-3574,1967-08-08,Retired,Inactive Foster,yes,10,61236
+51137,Rieber,Erin,RieberE@gmail.com,female,2516 Columbia Pike,Arlington,VA,22204,394-261-1623,1965-08-22,Student,Inactive Foster,no,12,61237
+51138,al-Rashid,Zarqaa,al-RashidZ@msn.com,female,2501 9th Rd S,Arlington,VA,22204,265-149-4951,2009-12-11,Unemployed,Active Foster,yes,3,61238
+51139,White,Lubna,WhiteL@aol.com,female,300 N Glebe Rd,Arlington,VA,22203,291-654-8269,1998-12-25,Student,Active Foster,no,7,61239
+51140,Chareunsouk,Gina,ChareunsoukG@gmail.com,female,1201 S Hayes St,Arlington,VA,22202,297-746-7692,1966-03-10,Employed,Inactive Foster,yes,3,61240
+51141,White,Markeisha,WhiteM@msn.com,female,1200 N Veitch St,Arlington,VA,22201,412-764-4916,1992-04-16,Employed,Active Foster,no,4,61241
+51142,Musselman,Charline,MusselmanC@aol.com,female,1625 Wilson Blvd,Arlington,VA,22209,265-428-4917,1964-10-16,Employed,Active Foster,no,1,61242
+51143,Compton,Tika,ComptonT@aol.com,female,2324 Columbia Pike,Arlington,VA,22204,837-794-9725,1947-05-04,Employed,Active Foster,yes,3,61243
+51144,al-Musa,Mahbooba,al-MusaM@gmail.com,female,1810 N Moore St,Arlington,VA,22209,965-718-4576,1974-06-09,Employed,Active Foster,no,8,61244
+51145,Tan,Hannah,TanH@msn.com,female,1401 N Taft St,Arlington,VA,22201,634-794-1683,1985-11-09,Student,Inactive Foster,no,9,61245
+51146,Van,Lorna,VanL@aol.com,female,1144 N Stuart St,Arlington,VA,22201,231-598-9428,1975-09-28,Employed,Active Foster,yes,8,61246
+51147,Richter,Priscilla,RichterP@aol.com,female,4505 Lee Hwy,Arlington,VA,22207,168-297-3867,1969-04-07,Employed,Active Foster,no,9,61247
+51148,Dare-Nickle,Amber,Dare-NickleA@gmail.com,female,1101 S Joyce St,Arlington,VA,22029,738-184-4765,1980-07-31,Employed,Active Foster,yes,2,61248
+51149,King,Dacia,KingD@aol.com,female,2250 Clarendon Blvd,Arlington,VA,22201,873-261-1957,1965-10-24,Employed,Active Foster,no,12,61249
+51150,al-Ally,Hasana,al-AllyH@aol.com,female,523 Carpenter Rd,Fort Myer,VA,22211,276-682-1863,1948-06-16,Retired,Active Foster,no,5,61250
+51151,Cole,Rowan,ColeR@gmail.com,female,3610 Lee Hwy,Arlington,VA,22207,426-364-6513,1974-03-14,Student,Inactive Foster,yes,11,61251
+51152,Cheeseman,Shamari,CheesemanS@msn.com,female,4100 Fairfax Dr,Arlington,VA,22203,245-638-1359,2010-05-12,Employed,Active Foster,yes,11,61252
+51153,Pablo,Reynu,PabloR@aol.com,female,900 N Randolph St,Arlington,VA,22203,978-534-1237,1950-03-22,Student,Inactive Foster,no,5,61253
+51154,Little,Elena,LittleE@aol.com,female,2501 9th Rd S,Arlington,VA,22204,624-251-8724,1988-07-02,Retired,Inactive Foster,no,9,61254
+51155,Mason,Shauntece,MasonS@gmail.com,female,1201 S Courthouse Rd,Arlington,VA,22204,625-896-1738,1979-02-07,Employed,Active Foster,no,6,61255
+51156,Gonzalez-Salina,Bianca,Gonzalez-SalinaB@msn.com,female,4200 Columbia Pike,Arlington,VA,22204,138-579-4736,1947-04-22,Employed,Inactive Foster,yes,2,61256
+51157,Wilson,Tracy,WilsonT@aol.com,female,1235 Jefferson Davis Hwy,Arlington,VA,22202,732-284-9843,1959-01-20,Employed,Inactive Foster,yes,8,61257
+51158,Jones,Ashanti,JonesA@aol.com,female,1201 S Eads St,Arlington,VA,22202,798-463-5293,1988-03-23,Employed,Inactive Foster,no,10,61258
+51159,Mccaul,Meghan,MccaulM@msn.com,female,850 N Randolph St,Arlington,VA,22203,579-142-6198,2004-12-16,Retired,Inactive Foster,no,6,61259
+51160,Vigil,Brigitt,VigilB@aol.com,female,850 N Randolph St,Arlington,VA,22203,143-695-5249,1980-05-24,Unemployed,Inactive Foster,yes,1,61260
+51161,Thomas,Meshelle,ThomasM@aol.com,female,8039 Gatehouse Rd,Falls Church,VA,22042,368-431-5648,1966-12-20,Retired,Inactive Foster,no,5,61261
+51162,Acevedo,Jennifer,AcevedoJ@gmail.com,female,2303 Bancroft Pl NW,Washington,DC,20008,185-843-4312,1972-10-30,Employed,Active Foster,yes,3,61262
+51163,Hornbuckle,Phelan,HornbuckleP@msn.com,female,4326 9th ST NW,Washington,DC,22011,391-745-1928,1956-12-18,Retired,Active Foster,no,2,61263
+51164,Reid,Jerusalem,ReidJ@aol.com,female,2800 Clarendon Blvd,Arlington,VA,22201,946-618-4269,1971-09-09,Employed,Active Foster,no,7,61264
+51165,Montoya,Dawn,MontoyaD@aol.com,female,2800 Clarendon Blvd,Arlington,VA,22201,581-159-3284,1964-07-28,Employed,Active Foster,no,9,61265
+51166,Lange,Alyxandra,LangeA@gmail.com,female,7013 Leestone St,Springfield,VA,22151,168-461-6327,2008-06-11,Student,Active Foster,no,4,61266
+51167,Nix,Joann,NixJ@msn.com,female,2519 Afton St,Temple Hills,MD,20748,645-952-7512,1963-05-25,Employed,Active Foster,no,11,61267
+51168,Mattingly,Jor Dun,MattinglyJ@aol.com,female,1320 N Veitch St,Arlington,VA,22201,215-742-8914,1994-10-28,Retired,Inactive Foster,no,3,61268
+51169,Barbour,Mary Lynn,BarbourM@gmail.com,female,4934 Indian Ln NW,Washington,DC,20016,321-897-3298,1961-02-19,Student,Active Foster,no,10,61269
+51170,Mckain,Graciela,MckainG@msn.com,female,4123 Village Ct,Annandale,VA,22033,691-519-9873,2004-02-18,Unemployed,Inactive Foster,no,6,61270
+51171,Kim,Pwint,KimP@aol.com,female,500 N Roosevelt St,Falls Church,VA,22044,497-748-7643,1974-07-08,Unemployed,Active Foster,yes,4,61271
+51172,el-Abraham,Raaniya,el-AbrahamR@aol.com,female,500 N Roosevelt St,Falls Church,VA,22044,465-148-2391,1967-11-13,Unemployed,Active Foster,yes,7,61272
+51173,Kopasz,Jordan,KopaszJ@gmail.com,female,2724 S Arlington Ridge Rd,Arlington,VA,22202,831-674-5789,1973-10-26,Employed,Inactive Foster,no,6,61273
+51174,Bouricius,Amanda,BouriciusA@msn.com,female,2400 Queens Chapel Rd,Hyattsville,MD,20782,572-491-1426,1957-03-01,Employed,Active Foster,no,7,61274
+51175,el-Mian,Fawzaana,el-MianF@aol.com,male,2400 Queens Chapel Rd,Hyattsville,MD,20782,648-175-2583,1987-11-23,Employed,Active Foster,no,6,61275
+51176,Le,Sara,LeS@aol.com,male,950 25th St NW,Washington,DC,20037,752-917-8394,1997-01-04,Employed,Active Foster,no,12,61276
+51177,York,Zeth,YorkZ@gmail.com,male,5603 Cypress Creek Dr,Chillum,MD,20782,513-317-4863,2005-08-13,Student,Inactive Foster,no,1,61277
+51178,el-Ameen,Raaida,el-AmeenR@msn.com,male,5603 Cypress Creek Dr,Chillum,MD,20783,826-127-1582,1986-08-29,Unemployed,Active Foster,no,4,61278
+51179,Reed,Ali,ReedA@aol.com,male,4101 Kaywood Pl,Mt Rainier,MD,20712,134-839-9476,2007-06-14,Employed,Inactive Foster,no,9,61279
+51180,Vasquez,Rosemarie,VasquezR@gmail.com,male,4101 Kaywood Pl,Mt Rainier,MD,20713,913-967-9634,2011-06-30,Employed,Inactive Foster,no,1,61280
+51181,Ramirez,Cindy,RamirezC@msn.com,male,6706 Farragut Ave,Falls Church,VA,22042,396-793-6527,1963-10-21,Student,Inactive Foster,no,10,61281
+51182,Wright,Rodney,WrightR@aol.com,male,3001 Branch Ave,Hillcrest Heights,MD,20748,871-789-2879,1965-11-26,Employed,Active Foster,yes,4,61282
+51183,Nakata,Angelica,NakataA@aol.com,male,2740 32nd St NW,Washington,DC,20008,974-173-3782,2006-04-03,Student,Active Foster,yes,11,61283
+51184,Turner,Walter,TurnerW@gmail.com,male,3601 Newark St NW,Washington,DC,20016,168-253-8427,1971-04-07,Student,Inactive Foster,no,6,61284
+51185,Alvarez,Yuliza,AlvarezY@msn.com,male,4545 Wheeler Rd,Glassmanor,MD,20745,813-658-5962,1994-01-11,Retired,Inactive Foster,yes,1,61285
+51186,Powell,Usama,PowellU@aol.com,male,831 Rock Creek Church Rd NW,Washington,DC,20010,176-819-6741,2001-08-06,Employed,Inactive Foster,no,5,61286
+51187,Galvan-Magallanes,Bianca,Galvan-MagallanesB@aol.com,male,3301 King St,Alexandria,VA,22302,439-249-5849,1954-08-02,Employed,Active Foster,no,9,61287
+51188,Lee,Stacee,LeeS@gmail.com,male,3466 Brinkley Rd,Temple Hills,MD,20748,453-421-1963,1998-12-03,Employed,Active Foster,no,7,61288
+51189,Hicks,Trey,HicksT@aol.com,male,4608 Battenburg Ln,Fairfax,VA,22030,928-271-8793,1949-05-24,Employed,Inactive Foster,no,1,61289
+51190,Davis,Davoney,DavisD@aol.com,male,10833 Verde Vista Dr,Fairfax,VA,22030,978-412-7381,1984-07-23,Retired,Active Foster,yes,9,61290
+51191,Naranjo,Aiden,NaranjoA@gmail.com,male,12312 Field Lark Ln,Fairfax,VA,22030,517-176-1357,1998-05-09,Employed,Inactive Foster,no,11,61291
+51192,Bresciani,Stephanie,BrescianiS@msn.com,male,9459 Fairfax Blvd,Fairfax,VA,22031,483-435-6192,1994-10-16,Employed,Active Foster,no,6,61292
+51193,al-Yousuf,Iyaad,al-YousufI@aol.com,male,10809 Carol St,Fairfax,VA,22030,658-632-5832,1964-06-15,Unemployed,Active Foster,yes,4,61293
+51194,Whiteman,Amya,WhitemanA@aol.com,male,4283 Fox Lake Dr,Fairfax,VA,22030,158-784-1376,1999-05-08,Employed,Inactive Foster,no,10,61294
+51195,Williams,Samantha,WilliamsS@gmail.com,male,3138 Barkley Dr,Fairfax,VA,22031,895-529-1476,1974-08-15,Student,Active Foster,yes,6,61295
+51196,Kukucka,Cole,KukuckaC@msn.com,male,13108 Poplar Tree Rd,Fairfax,VA,22033,715-952-1973,1957-09-27,Employed,Inactive Foster,no,11,61296
+51197,Barry,Jacqueline,BarryJ@aol.com,male,2933 Everleigh Way,Fairfax,VA,22031,825-427-5176,2000-09-03,Employed,Active Foster,no,6,61297
+51198,al-Sattar,Najwa,al-SattarN@aol.com,male,10825 Crest St,Fairfax,VA,22030,639-971-9517,1997-10-05,Student,Inactive Foster,no,7,61298
+51199,Cruz,Jessis,CruzJ@aol.com,male,4617 Carsbrooke Ln,Fairfax,VA,22030,983-785-6258,2009-05-01,Retired,Inactive Foster,no,11,61299
+51200,Mayhew,Kade,MayhewK@aol.com,male,13116 Pennerview Ln,Fairfax,VA,22033,528-642-3651,1952-11-13,Employed,Active Foster,yes,5,61300
+51201,el-Jafri,Hamdi,el-JafriH@gmail.com,male,12703 Sabastian Dr,Fairfax,VA,22030,183-792-1563,1960-10-18,Retired,Inactive Foster,no,11,61301
+51202,Lopez,Stephanie,LopezS@msn.com,male,10003 Five Oaks Rd,Fairfax,VA,22031,367-652-8254,1975-07-20,Employed,Active Foster,yes,1,61302
+51203,Hedberg,Mariah,HedbergM@aol.com,male,7205 Arrowood Rd,Bethesda,MD,20817,185-852-6753,1997-07-24,Student,Active Foster,yes,5,61303
+51204,Box,Karlena,BoxK@aol.com,male,5912 Melvern Dr,Bethesda,MD,20817,594-617-4179,2002-05-05,Employed,Active Foster,no,9,61304
+51205,Gillespie,Autryana,GillespieA@gmail.com,male,6208 Bradley Blvd,Bethesda,MD,20817,369-973-5463,1972-03-22,Unemployed,Active Foster,no,3,61305
+51206,el-Zamani,Ghaada,el-ZamaniG@msn.com,male,4504 N Chelsea Ln,Bethesda,MD,20814,162-739-8419,1956-05-05,Retired,Inactive Foster,yes,3,61306
+51207,Hernandez,Gabrielle,HernandezG@aol.com,male,6832 Tulip Hill Ter,Bethesda,MD,20816,683-785-7194,2004-04-22,Employed,Active Foster,no,9,61307
+51208,al-Lodi,Naseeba,al-LodiN@aol.com,male,113 S Brook Ln,Bethesda,MD,20814,347-562-8239,2003-10-17,Unemployed,Inactive Foster,no,8,61308
+51209,Colborg,Anthony,ColborgA@msn.com,male,5304 Ventnor Rd,Bethesda,MD,20816,823-354-9367,1980-05-13,Retired,Active Foster,no,8,61309
+51210,Nguyen,Saleel,NguyenS@aol.com,male,4609 Maple Ave,Bethesda,MD,20814,649-254-3274,1979-02-08,Student,Inactive Foster,no,5,61310
+51211,Plott,Joylynn,PlottJ@aol.com,male,9217 E Parkhill Dr,Bethesda,MD,20814,596-651-6584,1998-07-29,Employed,Inactive Foster,no,7,61311
+51212,el-Abdi,Marwa,el-AbdiM@gmail.com,male,8017 Park Ln,Bethesda,MD,20814,195-826-5847,2006-09-12,Retired,Active Foster,no,11,61312
+51213,Olarte,Raymond,OlarteR@msn.com,male,3301 Fessenden St NW,Washington,DC,20008,451-584-4187,1985-02-10,Employed,Active Foster,no,3,61313
+51214,Coriz,Jasmine,CorizJ@aol.com,male,3005 Chancellors Way NE,Washington,DC,20017,825-831-7284,1999-06-26,Employed,Active Foster,no,5,61314
+51215,al-Badie,Minnah,al-BadieM@aol.com,male,1607 28th St NW,Washington,DC,20007,536-627-3289,1965-04-20,Student,Active Foster,no,7,61315
+51216,Cochran,Collin,CochranC@gmail.com,male,7201 Dulany Ct,Mclean,VA,22101,431-952-8495,1980-01-23,Employed,Inactive Foster,no,12,61316
+51217,Cox,Miranda,CoxM@msn.com,male,2030 N Quinn St,Arlington,VA,22209,623-926-5289,1966-03-11,Retired,Active Foster,no,8,61317
+51218,Vazquez Arvizo,Rachel,Vazquez ArvizoR@aol.com,male,1526 17th St NW,Washington,DC,20036,248-634-2791,2003-05-25,Employed,Active Foster,no,3,61318
+51219,Dakos,Marissa,DakosM@gmail.com,male,900 N Taylor St,Arlington,VA,22203,641-126-3586,1970-07-21,Retired,Active Foster,no,5,61319
+51220,Sandoval,Kawii,SandovalK@msn.com,male,4400 Garfield St NW,Washington,DC,20007,279-317-4821,2011-10-22,Student,Active Foster,no,11,61320
+51221,Eatwell,Madeline,EatwellM@aol.com,male,1439 Shippen Ln SE,Washington,DC,20020,365-465-6521,1992-07-25,Employed,Inactive Foster,no,1,61321
+51222,Sago,Cheyenne,SagoC@aol.com,male,3528 Albemarle St NW,Washington,DC,20008,759-964-2467,1962-06-08,Student,Active Foster,yes,1,61322
+51223,Hubregsen,Joshua,HubregsenJ@gmail.com,male,1402 S St NW,Washington,DC,20009,268-761-8562,1969-05-10,Unemployed,Inactive Foster,no,11,61323
+51224,el-Mustafa,Sireen,el-MustafaS@msn.com,male,1000 New Jersey Ave SE,Washington,DC,20003,132-891-9534,1999-01-15,Employed,Active Foster,no,5,61324
+51225,Glaister,Emily,GlaisterE@aol.com,male,1661 Crescent Pl NW,Washington,DC,20009,753-912-7613,1968-02-16,Student,Inactive Foster,no,11,61325
+51226,Ngo,Jesse,NgoJ@aol.com,male,1207 Buchanan St,Mclean,VA,22101,647-732-3182,1964-05-16,Employed,Active Foster,no,5,61326
+51227,Rivas,Luke,RivasL@gmail.com,male,6478 Oakwood Dr,Falls Church,VA,22041,783-519-4975,1951-07-15,Employed,Inactive Foster,no,5,61327
+51228,Campbell,Jennifer,CampbellJ@msn.com,male,3117 Graydon St,Falls Church,VA,22042,728-876-3247,1984-01-31,Unemployed,Inactive Foster,yes,4,61328
+51229,Hernandez,Derek,HernandezD@aol.com,male,4319 18th St NW,Washington,DC,22011,174-482-4285,1965-04-04,Employed,Inactive Foster,yes,3,61329
+51230,Thornhill,Dionna,ThornhillD@gmail.com,male,3246 S Utah St,Arlington,VA,22206,649-958-2317,1965-03-16,Student,Inactive Foster,yes,10,61330
+51231,Brown,Shanice,BrownS@msn.com,male,4017 22nd St N,Arlington,VA,22207,138-693-9623,2000-03-08,Employed,Active Foster,yes,6,61331
+51232,al-Sadek,Sabeeka,al-SadekS@aol.com,male,2228 Mclean Park Rd,Falls Church,VA,22043,917-742-5239,1964-01-16,Employed,Active Foster,no,11,61332
+51233,Runningbear-Paul,Donovan,Runningbear-PaulD@aol.com,male,811 N Daniel St,Arlington,VA,22201,136-178-6145,1975-07-20,Employed,Inactive Foster,no,11,61333
+51234,Garand,Karen,GarandK@gmail.com,male,210 N Columbus St,Arlington,VA,22203,176-365-2678,2009-04-18,Retired,Inactive Foster,yes,5,61334
+51235,Razo,Julian,RazoJ@msn.com,male,2915 O ST NW,Washington,DC,20007,865-426-7912,1967-08-24,Student,Active Foster,no,7,61335
+51236,Nuon,Robby,NuonR@aol.com,male,2804 Q St NW,Washington,DC,20007,615-638-7214,1998-01-17,Unemployed,Active Foster,no,2,61336
+51237,Contreras-Torres,Brittany,Contreras-TorresB@aol.com,male,4507 Holmes Run Pkwy,Alexandria,VA,22304,195-632-6719,1955-07-20,Employed,Active Foster,no,2,61337
+51238,Wells,Kesha,WellsK@gmail.com,male,3407 Gilden Dr,Alexandria,VA,22305,123-826-8452,1979-02-22,Employed,Active Foster,no,2,61338
+51239,Cantu,Esmeralda,CantuE@aol.com,male,3006 13th St NW,Washington,DC,20009,846-397-9462,2004-08-06,Student,Inactive Foster,yes,1,61339
+51240,Samoy,Lacie,SamoyL@aol.com,male,3322 Breckenridge Ct,Annandale,VA,22033,359-185-8415,1970-07-05,Employed,Active Foster,yes,4,61340
+51241,Hayes,Chaz,HayesC@gmail.com,male,4053 Taney Ave,Alexandria,VA,22304,984-413-9347,1975-08-09,Retired,Active Foster,yes,1,61341
+51242,Hudson,Ariel,HudsonA@msn.com,male,2101 Connecticut Ave NW,Washington,DC,20008,251-652-9236,1993-05-15,Unemployed,Active Foster,no,3,61342
+51243,Fink,Evan,FinkE@aol.com,male,7902 Holmes Run Dr,Falls Church,VA,22042,397-674-9257,1950-04-30,Employed,Inactive Foster,yes,3,61343
+51244,Perez,Hector,PerezH@aol.com,male,4600 Duke St,Alexandria,VA,22304,258-934-1354,1992-08-01,Retired,Active Foster,no,2,61344
+51245,el-Mostafa,Mu'mina,el-MostafaM@gmail.com,male,1011 Arlington Blvd,Arlington,VA,22209,815-258-5398,1990-02-15,Unemployed,Inactive Foster,yes,8,61345
+51246,Dugo,Emilie,DugoE@msn.com,male,3900 Tunlaw Rd NW,Washington,DC,20007,341-351-2685,1990-02-24,Employed,Active Foster,no,2,61346
+51247,Siders,Tyrell,SidersT@aol.com,male,3125 Celadon Ln,Falls Church,VA,22044,197-985-2879,1979-06-30,Student,Active Foster,yes,9,61347
+51248,Belinski,Alexa,BelinskiA@aol.com,male,110 S Huron Dr,Oxon Hill,MD,20745,153-546-8369,1964-11-23,Employed,Active Foster,no,12,61348
+51249,Foster,Antonio,FosterA@msn.com,male,307 Yoakum Pkwy,Alexandria,VA,22304,395-759-4293,1953-11-09,Employed,Inactive Foster,no,12,61349
+51250,Nguyen,Joon,NguyenJ@aol.com,male,8736 Wolftrap Rd,Vienna,VA,22182,256-264-1346,1950-01-04,Employed,Active Foster,no,12,61350
+51251,Vogel,Annie,VogelA@aol.com,male,2509 Foxhall Rd NW,Washington,DC,20007,924-689-6275,1977-07-10,Retired,Inactive Foster,no,3,61351
+51252,Reaves,Billy,ReavesB@gmail.com,male,815 S Randolph St,Arlington,VA,22204,325-749-7216,1968-01-25,Employed,Active Foster,no,10,61352
+51253,Martinez-Limon,Oscar,Martinez-LimonO@msn.com,male,3127 51st Pl NW,Washington,DC,20016,134-635-8394,1960-08-25,Student,Inactive Foster,yes,9,61353
+51254,Davies,Graham,DaviesG@aol.com,male,1229 18th St NE,Washington,DC,20002,516-576-4168,1995-12-03,Employed,Active Foster,no,6,61354
+51255,Khan,Misty,KhanM@aol.com,male,2475 Virginia Ave,Washington,DC,20037,519-175-3217,1962-11-07,Retired,Active Foster,no,9,61355
+51256,Crowdis,Ames,CrowdisA@gmail.com,male,5511 Janice Ln,Temple Hills,MD,20748,831-456-4267,1973-05-11,Student,Inactive Foster,no,2,61356
+51257,Yates,Stephanie,YatesS@msn.com,male,714 Maury Ave,Oxon Hill,MD,20745,962-642-6823,1992-09-20,Student,Active Foster,no,1,61357
+51258,Leon,Matthew,LeonM@aol.com,male,2300 Pimmit Dr,Falls Church,VA,22043,418-418-2453,1954-06-09,Student,Active Foster,no,2,61358
+51259,Childers,Sawyer,ChildersS@gmail.com,male,2035 N Taylor St,Arlington,VA,22207,893-629-6935,2010-06-28,Unemployed,Inactive Foster,yes,5,61359
+51260,Charleston,Bobbi,CharlestonB@msn.com,male,4705 16th St NW,Washington,DC,22011,568-952-3285,1996-04-24,Student,Inactive Foster,no,11,61360
+51261,Kim,Lucas,KimL@aol.com,male,89 Danbury St SW,Washington,DC,20032,645-536-6723,1948-12-14,Employed,Inactive Foster,no,6,61361
+51262,Gibson,Adam,GibsonA@aol.com,male,2810 Liberty Ave,Falls Church,VA,22042,941-586-5648,2010-04-28,Unemployed,Inactive Foster,no,9,61362
+51263,Auyeung,May,AuyeungM@gmail.com,male,3612 17th St NE,Washington,DC,20018,146-896-2684,1996-06-01,Student,Inactive Foster,no,8,61363
+51264,al-Husain,Nadeera,al-HusainN@msn.com,male,6 Ancell St,Alexandria,VA,22305,947-529-2538,2004-09-06,Employed,Inactive Foster,no,10,61364
+51265,el-Shehata,Hikma,el-ShehataH@aol.com,male,5713 S Hil Mar Cir,District Heights,MD,20747,642-523-8493,1961-06-05,Employed,Inactive Foster,no,7,61365
+51266,Martinez Mcgraw,Maria,Martinez McgrawM@aol.com,male,1300 Army Navy Dr,Arlington,VA,22202,813-174-5481,1964-07-31,Employed,Inactive Foster,no,6,61366
+51267,Lumba,Shivani,LumbaS@gmail.com,male,5043 9th St S,Arlington,VA,22204,198-476-1823,1986-06-21,Employed,Active Foster,no,6,61367
+51268,Hatch,Shadara,HatchS@msn.com,male,7312 Statecrest Dr,Annandale,VA,22033,689-548-8612,1969-02-10,Student,Inactive Foster,no,1,61368
+51269,Smith,Cameron,SmithC@aol.com,male,702 E St NE,Washington,DC,20002,725-587-2357,2004-11-21,Employed,Inactive Foster,no,2,61369
+51270,Thompson II,Kiara,Thompson IIK@gmail.com,male,3239 Ravensworth Pl,Alexandria,VA,22302,528-315-7241,1997-01-30,Employed,Active Foster,no,5,61370
+51271,Lawrence,Leona,LawrenceL@msn.com,male,7914 Towerbell Ct,Annandale,VA,22033,185-642-9126,2004-05-17,Employed,Active Foster,no,4,61371
+51272,Hoffmann,Simone,HoffmannS@aol.com,male,2812 S Meade St,Arlington,VA,22206,892-619-8912,2008-08-09,Unemployed,Inactive Foster,no,5,61372
+51273,Haskins,Kyree,HaskinsK@aol.com,male,2308 Tunlaw Rd NW,Washington,DC,20007,635-162-3629,1968-01-23,Student,Inactive Foster,yes,10,61373
+51274,Lee,Akira,LeeA@gmail.com,male,423 Sherrow Ave,Falls Church,VA,22046,748-521-2718,1958-08-12,Retired,Inactive Foster,no,12,61374
+51275,Shaw,Randall,ShawR@msn.com,male,906 Turkey Run Rd,Mclean,VA,22101,146-349-4872,1956-09-27,Employed,Active Foster,no,7,61375
+51276,Harris,Isaiah,HarrisI@aol.com,male,3030 K St NW,Washington,DC,20007,729-182-3154,1954-06-14,Retired,Active Foster,no,10,61376
+51277,Topper,Saraya,TopperS@aol.com,male,7507 Chrisland Cv,Falls Church,VA,22042,926-684-7152,1977-08-19,Employed,Inactive Foster,no,12,61377
+51278,Davis,Christopher,DavisC@gmail.com,male,3132 Annandale Rd,Falls Church,VA,22042,972-214-7835,1951-03-17,Employed,Active Foster,no,1,61378
+51279,Fermin,Kyler,FerminK@aol.com,male,707 Larchmont Ave,Capitol Heights,MD,20743,819-256-2149,2010-03-23,Employed,Inactive Foster,no,5,61379
+51280,al-Qasim,Aneesa,al-QasimA@aol.com,male,653 Morton Pl NE,Washington,DC,20002,417-745-3695,1967-03-23,Retired,Active Foster,no,4,61380
+51281,Lanoue,Ta'Jiona,LanoueT@gmail.com,male,3326 E St SE,Washington,DC,20019,462-751-4938,1993-07-25,Student,Active Foster,no,11,61381
+51282,Fadler,Abasse,FadlerA@msn.com,male,5400 Cathedral Ave NW,Washington,DC,20016,871-238-7296,1985-09-08,Employed,Active Foster,no,7,61382
+51283,Smith-Keagle,Heather,Smith-KeagleH@aol.com,male,5886 Leesburg Pike,Falls Church,VA,22041,681-891-5648,1949-10-22,Retired,Active Foster,no,8,61383
+51284,Patterson,Samuel,PattersonS@aol.com,male,7451 Patterson Rd,Falls Church,VA,22043,458-381-6315,1976-03-11,Employed,Active Foster,no,5,61384
+51285,Alex,Logan,AlexL@gmail.com,male,809 Graham Rd,Falls Church,VA,22042,637-687-4687,1988-07-06,Employed,Inactive Foster,no,8,61385
+51286,Foerster,Lyndsey,FoersterL@msn.com,male,6211 Leesburg Pike,Falls Church,VA,22044,217-469-4671,1999-01-16,Employed,Active Foster,no,12,61386
+51287,Okocha,Taylor,OkochaT@aol.com,male,843 Cabell Avenue,Charlottesville,VA,22903,479-794-4769,2004-04-26,Student,Active Foster,no,12,61387
+51288,el-Agha,Mahdeeya,el-AghaM@aol.com,male,5840 Crossroads Ctr,Falls Church,VA,22041,762-327-3415,1947-06-11,Unemployed,Inactive Foster,no,6,61388
+51289,Gallo,Nickoles,GalloN@msn.com,male,7541 Leesburg Pike,Falls Church,VA,22043,769-145-1925,1978-06-01,Student,Inactive Foster,no,5,61389
+51290,Ten,Chakara,TenC@aol.com,male,5300 Wisconsin Ave NW,Washington,DC,20015,832-384-7852,1998-07-25,Student,Inactive Foster,yes,1,61390
+51291,Robinson,Cassidy,RobinsonC@aol.com,male,1201 G St NW,Washington,DC,20005,961-671-9128,1965-02-07,Employed,Inactive Foster,no,5,61391
+51292,Mills,Naomi,MillsN@gmail.com,male,5333 Wisconsin Ave NW,Washington,DC,20015,465-517-6925,1985-05-21,Unemployed,Inactive Foster,no,6,61392
+51293,Williams,Dillon,WilliamsD@msn.com,male,2747 Martin Luther King Jr Ave SE,Washington,DC,20032,683-365-4736,1959-03-09,Retired,Inactive Foster,no,10,61393
+51294,Herrera,Luis,HerreraL@aol.com,male,3921 S Capitol St SW,Washington,DC,20032,679-692-6725,1999-06-22,Unemployed,Inactive Foster,no,3,61394
+51295,Bathelt,Brianna,BatheltB@aol.com,male,1608 20th St NW,Washington,DC,20009,167-693-2415,1985-08-19,Student,Active Foster,no,5,61395
+51296,Nguyen,Melody,NguyenM@gmail.com,male,5100 Wisconsin Ave NW,Washington,DC,20016,945-149-6728,1999-03-03,Retired,Active Foster,no,10,61396
+51297,Sanchez,Mario,SanchezM@msn.com,male,1440 P St NW,Washington,DC,20005,816-517-2645,1986-04-27,Student,Active Foster,no,7,61397
+51298,al-Yousif,Jaadallah,al-YousifJ@aol.com,male,1345 Park Rd NW,Washington,DC,20010,281-236-4319,2009-04-06,Student,Active Foster,no,2,61398
+51299,Elliott,Kaylee,ElliottK@msn.com,male,1317 Pennsylvania Ave SE,Washington,DC,20003,271-462-9452,1971-03-01,Employed,Inactive Foster,no,11,61399
+51300,Smith,Hannah,SmithH@aol.com,male,4616 14th St NW,Washington,DC,20011,694-879-7612,1997-02-21,Student,Active Foster,no,7,61400
+51301,Parker,Helena,ParkerH@aol.com,male,826 18th St NW,Washington,DC,20006,173-823-7135,1984-04-02,Student,Active Foster,no,12,61401
+51302,Bentley,Marcus,BentleyM@gmail.com,male,1101 25th St NW,Washington,DC,20037,879-485-4925,1958-01-29,Student,Active Foster,no,10,61402
+51303,Huling III,Cynthia,Huling IIIC@msn.com,male,1319 18th St NW,Washington,DC,20036,541-489-1492,1952-10-23,Unemployed,Active Foster,no,8,61403
+51304,Kurth,Laura,KurthL@aol.com,male,1807 18th St NW,Washington,DC,20009,846-789-2613,1956-06-18,Employed,Inactive Foster,no,10,61404
+51305,Holiday,Kiana,HolidayK@aol.com,male,300 Morse St NE,Washington,DC,20002,847-649-8439,1988-04-17,Employed,Active Foster,no,4,61405
+51306,Roberts,Amber,RobertsA@gmail.com,male,516 23rd St NW,Washington,DC,20037,859-769-1523,1976-01-03,Employed,Active Foster,no,3,61406
+51307,Kitchens,Brandon,KitchensB@msn.com,male,529 14th St NW,Washington,DC,20045,389-617-7425,2007-03-05,Employed,Inactive Foster,no,1,61407
+51308,Tennant,Grace,TennantG@aol.com,male,3100 14th St NW,Washington,DC,20010,618-524-9251,1986-10-10,Employed,Inactive Foster,no,5,61408
+51309,Ferman,Maurice,FermanM@gmail.com,male,94 Palmer Aly NW,Washington,DC,20001,927-752-4789,1980-08-04,Employed,Active Foster,no,10,61409
+51310,Aragon,Yuliza,AragonY@msn.com,male,1548 Benning Rd NE,Washington,DC,20002,863-381-7924,1991-10-28,Employed,Inactive Foster,no,3,61410
+51311,Kaiser,Morgan,KaiserM@aol.com,male,2305 Rhode Island Ave NE,Washington,DC,20018,249-567-3298,1978-07-09,Employed,Inactive Foster,yes,12,61411
+51312,Griego,Timothy,GriegoT@aol.com,male,1251 9th St NW,Washington,DC,20001,237-156-8524,1987-01-16,Student,Inactive Foster,no,8,61412
+51313,Ramkumar,Daeun,RamkumarD@gmail.com,male,908 17th St NW,Washington,DC,20006,864-295-1268,2002-06-03,Employed,Active Foster,no,12,61413
+51314,Dinsmore,Louie,DinsmoreL@msn.com,male,111 19th St NW,Washington,DC,20036,189-791-8532,1964-05-25,Employed,Active Foster,no,8,61414
+51315,el-Yousuf,Ghaali,el-YousufG@aol.com,male,1230 New York Ave NE,Washington,DC,20002,623-674-7396,1973-07-23,Employed,Active Foster,no,4,61415
+51316,Jantz,Claire,JantzC@aol.com,male,3030 M St NW,Washington,DC,20007,714-823-5632,1998-12-22,Student,Inactive Foster,no,10,61416
+51317,Carriedo,Jared,CarriedoJ@gmail.com,male,2516 Columbia Pike,Arlington,VA,22204,435-153-1856,2003-10-16,Unemployed,Inactive Foster,no,10,61417
+51318,Begaye,Callie,BegayeC@msn.com,male,2501 9th Rd S,Arlington,VA,22204,483-817-1758,1982-01-10,Retired,Inactive Foster,no,11,61418
+51319,Marfil,Eduardo,MarfilE@aol.com,male,300 N Glebe Rd,Arlington,VA,22203,579-563-6875,1984-08-03,Student,Active Foster,no,11,61419
+51320,Hishinuma,Brandon,HishinumaB@gmail.com,male,1201 S Hayes St,Arlington,VA,22202,895-469-1638,1968-09-13,Employed,Active Foster,no,8,61420
+51321,al-Diab,Aaisha,al-DiabA@msn.com,male,1200 N Veitch St,Arlington,VA,22201,247-851-3951,1957-04-20,Student,Active Foster,no,5,61421
+51322,Ilgenfritz,Daniel,IlgenfritzD@aol.com,male,1625 Wilson Blvd,Arlington,VA,22209,829-641-2356,1949-05-15,Employed,Active Foster,no,7,61422
+51323,Tat,Hai,TatH@aol.com,male,2324 Columbia Pike,Arlington,VA,22204,481-832-2187,1956-04-05,Retired,Inactive Foster,no,8,61423
+51324,Liles,Garitt,LilesG@gmail.com,male,1810 N Moore St,Arlington,VA,22209,271-481-3486,1958-03-05,Retired,Inactive Foster,no,1,61424
+51325,Ngo,Devin,NgoD@msn.com,male,1401 N Taft St,Arlington,VA,22201,569-251-7264,1968-01-22,Employed,Active Foster,no,11,61425
+51326,Mclachlan,Bailey,MclachlanB@aol.com,male,1144 N Stuart St,Arlington,VA,22201,371-156-5928,1969-12-25,Student,Inactive Foster,no,3,61426
+51327,al-Ayoob,Mubashshir,al-AyoobM@aol.com,male,4505 Lee Hwy,Arlington,VA,22207,516-359-1756,2003-04-28,Student,Active Foster,no,12,61427
+51328,Monday,Ryan,MondayR@gmail.com,male,1101 S Joyce St,Arlington,VA,22029,265-953-9738,1970-03-03,Retired,Inactive Foster,no,2,61428
+51329,Maes,Martin,MaesM@aol.com,male,2250 Clarendon Blvd,Arlington,VA,22201,635-958-4783,1978-05-11,Employed,Inactive Foster,no,6,61429
+51330,Willis,Mariah,WillisM@aol.com,male,523 Carpenter Rd,Fort Myer,VA,22211,584-268-6271,2003-05-20,Employed,Active Foster,no,9,61430
+51331,el-Saeed,Tahiyya,el-SaeedT@gmail.com,male,3610 Lee Hwy,Arlington,VA,22207,289-365-3948,1968-10-21,Retired,Inactive Foster,no,4,61431
+51332,Price,Vivian,PriceV@msn.com,male,4100 Fairfax Dr,Arlington,VA,22203,958-593-2391,1957-06-28,Retired,Active Foster,no,9,61432
+51333,Anderson,Autumn,AndersonA@aol.com,male,900 N Randolph St,Arlington,VA,22203,384-931-6479,1987-08-15,Student,Active Foster,no,9,61433
+51334,el-Srour,Zuhra,el-SrourZ@aol.com,male,2501 9th Rd S,Arlington,VA,22204,673-921-6841,1958-12-03,Employed,Inactive Foster,no,9,61434
+51335,Hardwell,Kaitlyn,HardwellK@gmail.com,male,1201 S Courthouse Rd,Arlington,VA,22204,275-693-4351,1982-01-18,Unemployed,Inactive Foster,no,6,61435
+51336,Joy,Aiyana,JoyA@msn.com,male,4200 Columbia Pike,Arlington,VA,22204,387-519-7543,1959-10-02,Employed,Active Foster,no,3,61436
+51337,Quintana,David,QuintanaD@aol.com,male,1235 Jefferson Davis Hwy,Arlington,VA,22202,123-621-3128,1953-10-05,Employed,Inactive Foster,no,5,61437
+51338,Kent,Garrett,KentG@aol.com,male,1201 S Eads St,Arlington,VA,22202,429-527-6125,1968-06-19,Retired,Active Foster,yes,4,61438
+51339,Garcia,Edmundo,GarciaE@msn.com,male,850 N Randolph St,Arlington,VA,22203,643-684-6387,1991-11-16,Employed,Active Foster,no,7,61439
+51340,Thorndyke,Adrian,ThorndykeA@aol.com,male,850 N Randolph St,Arlington,VA,22203,895-612-4738,1973-12-23,Employed,Inactive Foster,no,7,61440
+51341,Laner,Cheyenne,LanerC@aol.com,male,8039 Gatehouse Rd,Falls Church,VA,22042,621-798-1634,1956-05-21,Employed,Inactive Foster,no,8,61441
+51342,Eagle,Cassidy,EagleC@gmail.com,male,2303 Bancroft Pl NW,Washington,DC,20008,238-721-6143,1960-06-28,Retired,Active Foster,yes,8,61442
+51343,Alire,Deion,AlireD@msn.com,male,4326 9th ST NW,Washington,DC,22011,546-971-8597,1996-10-13,Retired,Active Foster,no,9,61443
+51344,Peralto,Brandon,PeraltoB@aol.com,male,2800 Clarendon Blvd,Arlington,VA,22201,472-512-9486,1978-04-22,Employed,Active Foster,no,2,61444
+51345,Mills,Genevieve,MillsG@aol.com,male,2800 Clarendon Blvd,Arlington,VA,22201,968-167-4683,1962-07-26,Employed,Inactive Foster,no,8,61445
+51346,Lor,Mark,LorM@gmail.com,male,7013 Leestone St,Springfield,VA,22151,841-495-4359,1998-10-07,Employed,Active Foster,yes,3,61446
+51347,Lara,Joshua,LaraJ@msn.com,male,2519 Afton St,Temple Hills,MD,20748,927-697-6978,1975-10-11,Employed,Active Foster,no,8,61447
+51348,Esquivel-Acosta,Sammy,Esquivel-AcostaS@aol.com,male,1320 N Veitch St,Arlington,VA,22201,721-526-5267,1958-01-17,Retired,Active Foster,no,9,61448
+51349,al-Hai,Arafaat,al-HaiA@gmail.com,male,4934 Indian Ln NW,Washington,DC,20016,895-935-6923,1980-12-13,Employed,Inactive Foster,yes,10,61449

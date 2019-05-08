@@ -1,0 +1,801 @@
+homeReqId,homeType,fencedBackyard,homePrefWithMen,homePrefWithWomen,homePrefWithChildren,homePrefWithPets,animalId
+101000,apartment or condo,no,yes,yes,no,yes,31000
+101001,any,no,yes,yes,yes,no,31001
+101002,any,no,yes,yes,no,yes,31002
+101003,apartment or condo,no,yes,no,yes,yes,31003
+101004,house,yes,no,yes,no,no,31004
+101005,any,no,no,yes,no,no,31005
+101006,any,no,yes,yes,yes,no,31006
+101007,house,yes,yes,yes,no,yes,31007
+101008,house,yes,yes,yes,yes,yes,31008
+101009,house,yes,no,no,yes,yes,31009
+101010,any,no,no,yes,no,no,31010
+101011,house,yes,yes,yes,yes,yes,31011
+101012,house,yes,no,yes,no,yes,31012
+101013,any,no,yes,yes,no,no,31013
+101014,any,no,yes,yes,yes,no,31014
+101015,any,no,yes,yes,yes,yes,31015
+101016,any,no,yes,yes,yes,yes,31016
+101017,any,no,no,yes,no,no,31017
+101018,any,no,yes,no,yes,no,31018
+101019,any,no,yes,yes,yes,no,31019
+101020,house,yes,yes,yes,yes,yes,31020
+101021,any,no,yes,yes,no,yes,31021
+101022,any,no,yes,yes,yes,yes,31022
+101023,any,no,yes,yes,yes,yes,31023
+101024,house,yes,no,yes,no,yes,31024
+101025,house,yes,no,yes,yes,yes,31025
+101026,apartment or condo,no,yes,no,yes,yes,31026
+101027,any,no,yes,yes,no,yes,31027
+101028,any,no,no,yes,yes,yes,31028
+101029,apartment or condo,no,no,yes,no,yes,31029
+101030,house,yes,yes,yes,yes,yes,31030
+101031,any,no,no,yes,yes,yes,31031
+101032,any,no,yes,yes,yes,yes,31032
+101033,any,no,yes,no,yes,yes,31033
+101034,house,yes,yes,yes,yes,yes,31034
+101035,apartment or condo,no,yes,yes,no,no,31035
+101036,any,no,no,no,no,no,31036
+101037,house,yes,yes,yes,no,yes,31037
+101038,house,yes,yes,yes,no,yes,31038
+101039,apartment or condo,no,yes,yes,yes,yes,31039
+101040,house,yes,yes,yes,no,no,31040
+101041,house,yes,yes,yes,yes,no,31041
+101042,any,no,no,yes,no,yes,31042
+101043,house,yes,yes,yes,yes,yes,31043
+101044,apartment or condo,no,yes,yes,no,no,31044
+101045,apartment or condo,no,yes,yes,no,no,31045
+101046,any,no,yes,yes,no,no,31046
+101047,any,no,yes,yes,yes,no,31047
+101048,any,no,no,yes,yes,no,31048
+101049,any,no,no,yes,yes,no,31049
+101050,apartment or condo,no,yes,yes,no,yes,31050
+101051,any,no,yes,yes,no,yes,31051
+101052,apartment or condo,no,yes,yes,no,yes,31052
+101053,any,no,yes,yes,yes,yes,31053
+101054,any,no,no,yes,yes,no,31054
+101055,any,no,yes,yes,no,yes,31055
+101056,any,no,no,no,yes,yes,31056
+101057,any,no,yes,yes,yes,no,31057
+101058,any,no,no,no,no,yes,31058
+101059,any,no,no,no,yes,yes,31059
+101060,house,yes,no,yes,no,yes,31060
+101061,any,no,yes,yes,yes,no,31061
+101062,any,no,yes,yes,yes,no,31062
+101063,any,no,yes,no,no,no,31063
+101064,house,yes,no,yes,yes,no,31064
+101065,any,no,yes,no,no,no,31065
+101066,house,yes,yes,yes,no,yes,31066
+101067,house,yes,yes,yes,yes,yes,31067
+101068,house,yes,yes,yes,no,no,31068
+101069,any,no,yes,no,yes,yes,31069
+101070,any,no,yes,yes,yes,yes,31070
+101071,apartment or condo,no,yes,yes,no,yes,31071
+101072,apartment or condo,no,yes,yes,no,no,31072
+101073,apartment or condo,no,no,no,no,no,31073
+101074,any,no,yes,yes,yes,no,31074
+101075,any,no,yes,yes,no,yes,31075
+101076,any,no,yes,yes,no,yes,31076
+101077,any,no,yes,yes,yes,no,31077
+101078,any,no,yes,yes,yes,no,31078
+101079,apartment or condo,no,yes,yes,no,yes,31079
+101080,house,yes,yes,no,yes,no,31080
+101081,apartment or condo,no,yes,yes,no,yes,31081
+101082,house,yes,yes,yes,no,no,31082
+101083,house,yes,yes,yes,no,no,31083
+101084,any,no,yes,yes,yes,yes,31084
+101085,apartment or condo,no,no,no,no,yes,31085
+101086,apartment or condo,no,yes,yes,no,no,31086
+101087,any,no,no,yes,yes,no,31087
+101088,any,no,yes,yes,yes,yes,31088
+101089,any,no,yes,yes,yes,no,31089
+101090,any,no,yes,yes,yes,no,31090
+101091,any,no,no,yes,yes,yes,31091
+101092,house,yes,yes,yes,no,no,31092
+101093,any,no,yes,yes,yes,no,31093
+101094,any,no,yes,yes,no,yes,31094
+101095,house,yes,yes,yes,yes,yes,31095
+101096,any,no,yes,yes,yes,yes,31096
+101097,any,no,no,yes,yes,yes,31097
+101098,any,no,yes,no,yes,no,31098
+101099,any,no,no,yes,yes,yes,31099
+101100,any,no,yes,yes,yes,yes,31100
+101101,apartment or condo,no,yes,yes,no,no,31101
+101102,house,yes,yes,no,no,no,31102
+101103,house,yes,no,yes,no,no,31103
+101104,house,yes,no,yes,yes,no,31104
+101105,apartment or condo,no,yes,no,yes,yes,31105
+101106,any,no,no,no,yes,yes,31106
+101107,house,yes,no,yes,no,yes,31107
+101108,any,no,yes,yes,yes,yes,31108
+101109,any,no,yes,yes,yes,no,31109
+101110,any,no,no,yes,yes,yes,31110
+101111,any,no,yes,yes,yes,yes,31111
+101112,apartment or condo,no,yes,yes,yes,yes,31112
+101113,house,yes,yes,yes,yes,no,31113
+101114,any,no,yes,no,no,yes,31114
+101115,house,yes,yes,yes,no,no,31115
+101116,any,no,yes,no,yes,no,31116
+101117,any,no,no,no,no,no,31117
+101118,house,yes,yes,yes,yes,no,31118
+101119,house,yes,yes,yes,yes,yes,31119
+101120,any,no,yes,yes,yes,yes,31120
+101121,apartment or condo,no,yes,yes,no,yes,31121
+101122,any,no,no,yes,yes,yes,31122
+101123,apartment or condo,no,yes,yes,no,yes,31123
+101124,any,no,no,yes,yes,yes,31124
+101125,house,yes,no,yes,yes,no,31125
+101126,house,yes,yes,yes,yes,yes,31126
+101127,any,no,yes,yes,yes,yes,31127
+101128,any,no,no,yes,yes,yes,31128
+101129,any,no,yes,yes,no,no,31129
+101130,any,no,yes,yes,yes,yes,31130
+101131,any,no,no,yes,yes,no,31131
+101132,house,yes,yes,no,yes,no,31132
+101133,any,no,yes,yes,yes,yes,31133
+101134,any,no,yes,yes,no,yes,31134
+101135,apartment or condo,no,no,no,no,yes,31135
+101136,any,no,yes,yes,yes,no,31136
+101137,house,yes,yes,yes,no,no,31137
+101138,any,no,yes,no,yes,yes,31138
+101139,any,no,no,yes,yes,no,31139
+101140,any,no,yes,yes,no,yes,31140
+101141,apartment or condo,no,no,yes,yes,yes,31141
+101142,house,yes,no,yes,yes,yes,31142
+101143,apartment or condo,no,no,yes,yes,yes,31143
+101144,any,no,yes,yes,no,no,31144
+101145,any,no,yes,yes,yes,yes,31145
+101146,any,no,yes,no,no,no,31146
+101147,any,no,yes,no,no,no,31147
+101148,any,no,yes,yes,yes,no,31148
+101149,any,no,yes,no,no,yes,31149
+101150,any,no,yes,yes,no,no,31150
+101151,any,no,yes,yes,yes,yes,31151
+101152,any,no,yes,yes,no,no,31152
+101153,any,no,yes,yes,yes,yes,31153
+101154,any,no,no,yes,no,no,31154
+101155,any,no,yes,no,no,no,31155
+101156,any,no,yes,yes,no,no,31156
+101157,any,no,no,yes,yes,no,31157
+101158,apartment or condo,no,yes,yes,no,no,31158
+101159,any,no,no,no,yes,yes,31159
+101160,any,no,yes,yes,yes,no,31160
+101161,any,no,yes,yes,no,yes,31161
+101162,any,no,yes,yes,yes,no,31162
+101163,any,no,no,no,no,no,31163
+101164,apartment or condo,no,yes,yes,yes,yes,31164
+101165,any,no,yes,yes,yes,no,31165
+101166,any,no,yes,yes,no,yes,31166
+101167,any,no,yes,yes,yes,yes,31167
+101168,any,no,yes,yes,yes,no,31168
+101169,house,yes,no,yes,no,yes,31169
+101170,any,no,yes,yes,yes,no,31170
+101171,any,no,yes,yes,yes,no,31171
+101172,any,no,yes,no,yes,yes,31172
+101173,any,no,yes,yes,no,no,31173
+101174,any,no,yes,yes,yes,no,31174
+101175,any,no,no,no,yes,no,31175
+101176,house,yes,yes,yes,yes,yes,31176
+101177,any,no,no,yes,yes,yes,31177
+101178,any,no,yes,yes,yes,no,31178
+101179,any,no,yes,yes,no,no,31179
+101180,any,no,yes,yes,no,no,31180
+101181,any,no,yes,yes,yes,yes,31181
+101182,any,no,yes,yes,yes,yes,31182
+101183,house,yes,no,no,no,yes,31183
+101184,apartment or condo,no,yes,yes,yes,yes,31184
+101185,any,no,yes,no,no,yes,31185
+101186,house,yes,yes,yes,yes,no,31186
+101187,any,no,yes,yes,no,yes,31187
+101188,house,yes,yes,yes,yes,yes,31188
+101189,apartment or condo,no,yes,yes,no,yes,31189
+101190,house,yes,yes,yes,yes,no,31190
+101191,any,no,yes,no,no,no,31191
+101192,any,no,no,yes,yes,no,31192
+101193,any,no,yes,no,yes,no,31193
+101194,any,no,no,yes,no,yes,31194
+101195,any,no,no,no,no,yes,31195
+101196,any,no,yes,yes,yes,yes,31196
+101197,any,no,no,yes,yes,yes,31197
+101198,any,no,yes,yes,yes,no,31198
+101199,any,no,yes,yes,yes,yes,31199
+101200,any,no,yes,no,yes,no,31200
+101201,any,no,yes,yes,yes,no,31201
+101202,house,yes,yes,no,yes,no,31202
+101203,any,no,no,yes,no,yes,31203
+101204,any,no,yes,yes,yes,no,31204
+101205,any,no,yes,yes,yes,yes,31205
+101206,house,yes,yes,yes,yes,no,31206
+101207,any,no,no,no,yes,yes,31207
+101208,any,no,yes,yes,no,yes,31208
+101209,any,no,yes,yes,no,no,31209
+101210,any,no,yes,yes,no,yes,31210
+101211,house,yes,yes,yes,yes,yes,31211
+101212,any,no,no,yes,yes,no,31212
+101213,any,no,yes,yes,yes,yes,31213
+101214,house,yes,yes,yes,yes,yes,31214
+101215,any,no,yes,yes,yes,yes,31215
+101216,house,yes,yes,yes,no,no,31216
+101217,any,no,no,yes,yes,yes,31217
+101218,apartment or condo,no,yes,yes,yes,no,31218
+101219,house,yes,no,yes,no,no,31219
+101220,any,no,yes,yes,no,no,31220
+101221,any,no,yes,yes,no,yes,31221
+101222,house,yes,yes,yes,yes,yes,31222
+101223,any,no,yes,no,yes,no,31223
+101224,any,no,yes,yes,yes,yes,31224
+101225,apartment or condo,no,yes,no,yes,no,31225
+101226,house,yes,no,yes,yes,yes,31226
+101227,any,no,yes,yes,no,no,31227
+101228,any,no,yes,yes,no,no,31228
+101229,any,no,yes,yes,yes,yes,31229
+101230,any,no,yes,no,yes,no,31230
+101231,house,yes,yes,yes,yes,no,31231
+101232,any,no,yes,yes,no,yes,31232
+101233,house,yes,yes,yes,yes,no,31233
+101234,any,no,yes,no,yes,yes,31234
+101235,any,no,yes,yes,no,yes,31235
+101236,any,no,yes,yes,yes,yes,31236
+101237,house,yes,yes,no,yes,yes,31237
+101238,any,no,yes,no,no,yes,31238
+101239,any,no,yes,no,no,yes,31239
+101240,any,no,yes,yes,yes,yes,31240
+101241,any,no,yes,yes,yes,no,31241
+101242,house,yes,yes,yes,no,no,31242
+101243,any,no,yes,yes,yes,yes,31243
+101244,any,no,no,yes,yes,no,31244
+101245,any,no,yes,yes,no,yes,31245
+101246,house,yes,yes,yes,no,no,31246
+101247,any,no,yes,yes,no,yes,31247
+101248,any,no,yes,yes,yes,no,31248
+101249,house,yes,yes,yes,yes,yes,31249
+101250,apartment or condo,no,yes,yes,no,no,31250
+101251,any,no,yes,yes,no,no,31251
+101252,any,no,yes,yes,no,yes,31252
+101253,house,yes,no,yes,yes,yes,31253
+101254,house,yes,yes,yes,no,no,31254
+101255,any,no,yes,yes,yes,yes,31255
+101256,house,yes,no,yes,no,yes,31256
+101257,any,no,yes,yes,no,no,31257
+101258,house,yes,no,yes,yes,no,31258
+101259,apartment or condo,no,yes,yes,yes,no,31259
+101260,any,no,no,yes,no,no,31260
+101261,apartment or condo,no,yes,yes,yes,no,31261
+101262,any,no,yes,yes,yes,yes,31262
+101263,apartment or condo,no,yes,yes,yes,yes,31263
+101264,any,no,yes,yes,no,no,31264
+101265,any,no,yes,yes,yes,yes,31265
+101266,any,no,no,no,yes,yes,31266
+101267,any,no,yes,yes,yes,yes,31267
+101268,apartment or condo,no,yes,yes,yes,yes,31268
+101269,house,yes,no,yes,yes,no,31269
+101270,any,no,yes,yes,yes,no,31270
+101271,apartment or condo,no,yes,yes,yes,no,31271
+101272,any,no,yes,yes,yes,no,31272
+101273,any,no,yes,yes,no,no,31273
+101274,house,yes,yes,yes,no,yes,31274
+101275,house,yes,yes,yes,yes,no,31275
+101276,house,yes,yes,no,no,yes,31276
+101277,any,no,yes,yes,yes,no,31277
+101278,any,no,yes,no,yes,no,31278
+101279,apartment or condo,no,yes,yes,no,yes,31279
+101280,apartment or condo,no,no,yes,yes,no,31280
+101281,any,no,yes,yes,yes,no,31281
+101282,any,no,yes,yes,no,yes,31282
+101283,any,no,yes,no,yes,yes,31283
+101284,house,yes,no,yes,yes,yes,31284
+101285,any,no,yes,yes,yes,yes,31285
+101286,any,no,no,yes,no,yes,31286
+101287,any,no,no,yes,yes,yes,31287
+101288,apartment or condo,no,yes,yes,no,no,31288
+101289,house,yes,yes,yes,yes,yes,31289
+101290,house,yes,no,yes,no,no,31290
+101291,any,no,yes,yes,no,yes,31291
+101292,house,yes,no,no,yes,no,31292
+101293,house,yes,no,no,yes,no,31293
+101294,house,yes,yes,no,yes,no,31294
+101295,any,no,yes,yes,no,no,31295
+101296,house,yes,yes,yes,no,no,31296
+101297,house,yes,yes,yes,yes,no,31297
+101298,house,yes,no,yes,yes,yes,31298
+101299,any,no,yes,no,no,no,31299
+101300,house,yes,no,yes,yes,no,31300
+101301,any,no,yes,yes,yes,yes,31301
+101302,house,yes,yes,yes,no,yes,31302
+101303,house,yes,yes,no,no,no,31303
+101304,any,no,yes,no,yes,no,31304
+101305,any,no,yes,yes,yes,no,31305
+101306,any,no,no,yes,no,no,31306
+101307,any,no,yes,no,yes,yes,31307
+101308,house,yes,yes,yes,no,no,31308
+101309,house,yes,yes,yes,no,no,31309
+101310,any,no,yes,yes,yes,no,31310
+101311,any,no,no,yes,yes,yes,31311
+101312,house,yes,yes,yes,yes,no,31312
+101313,any,no,yes,yes,yes,no,31313
+101314,apartment or condo,no,yes,yes,yes,no,31314
+101315,any,no,yes,yes,yes,no,31315
+101316,apartment or condo,no,no,yes,no,no,31316
+101317,house,yes,no,yes,no,no,31317
+101318,apartment or condo,no,no,yes,yes,yes,31318
+101319,apartment or condo,no,yes,no,yes,yes,31319
+101320,apartment or condo,no,yes,yes,no,yes,31320
+101321,any,no,yes,yes,yes,no,31321
+101322,any,no,no,yes,yes,no,31322
+101323,house,yes,yes,yes,no,no,31323
+101324,any,no,yes,yes,yes,yes,31324
+101325,house,yes,no,no,yes,no,31325
+101326,apartment or condo,no,yes,yes,no,yes,31326
+101327,any,no,yes,yes,no,yes,31327
+101328,house,yes,no,yes,no,no,31328
+101329,house,yes,yes,yes,no,yes,31329
+101330,any,no,no,no,yes,yes,31330
+101331,any,no,yes,no,yes,no,31331
+101332,any,no,yes,no,no,no,31332
+101333,house,yes,yes,yes,no,no,31333
+101334,house,yes,yes,yes,yes,yes,31334
+101335,house,yes,yes,yes,yes,no,31335
+101336,house,yes,yes,yes,yes,yes,31336
+101337,house,yes,no,yes,no,yes,31337
+101338,house,yes,yes,yes,yes,yes,31338
+101339,apartment or condo,no,yes,yes,no,no,31339
+101340,house,yes,yes,no,yes,yes,31340
+101341,any,no,yes,yes,yes,no,31341
+101342,house,yes,yes,yes,no,yes,31342
+101343,apartment or condo,no,yes,yes,yes,no,31343
+101344,apartment or condo,no,yes,yes,no,no,31344
+101345,any,no,yes,yes,yes,yes,31345
+101346,house,yes,yes,yes,no,yes,31346
+101347,any,no,yes,no,yes,yes,31347
+101348,any,no,no,yes,yes,no,31348
+101349,apartment or condo,no,yes,yes,yes,no,31349
+101350,any,no,yes,yes,no,yes,31350
+101351,any,no,yes,yes,yes,no,31351
+101352,house,yes,yes,yes,no,yes,31352
+101353,any,no,no,yes,no,no,31353
+101354,apartment or condo,no,no,yes,yes,yes,31354
+101355,any,no,yes,yes,no,no,31355
+101356,any,no,yes,no,yes,yes,31356
+101357,any,no,yes,yes,no,yes,31357
+101358,any,no,yes,yes,yes,yes,31358
+101359,any,no,yes,no,yes,no,31359
+101360,house,yes,no,no,no,no,31360
+101361,any,no,yes,yes,yes,yes,31361
+101362,house,yes,yes,yes,yes,no,31362
+101363,any,no,no,no,yes,no,31363
+101364,any,no,no,yes,no,yes,31364
+101365,house,yes,yes,yes,no,no,31365
+101366,any,no,yes,yes,no,no,31366
+101367,apartment or condo,no,yes,yes,yes,yes,31367
+101368,any,no,no,yes,no,no,31368
+101369,apartment or condo,no,yes,yes,yes,yes,31369
+101370,any,no,no,yes,no,yes,31370
+101371,any,no,yes,yes,yes,no,31371
+101372,any,no,yes,yes,yes,no,31372
+101373,any,no,yes,no,yes,no,31373
+101374,house,yes,yes,yes,yes,no,31374
+101375,house,yes,no,no,yes,yes,31375
+101376,any,no,yes,yes,yes,yes,31376
+101377,apartment or condo,no,no,yes,no,yes,31377
+101378,any,no,yes,yes,no,yes,31378
+101379,any,no,yes,yes,yes,yes,31379
+101380,any,no,yes,yes,no,yes,31380
+101381,house,yes,yes,no,no,yes,31381
+101382,apartment or condo,no,no,yes,no,no,31382
+101383,house,yes,yes,no,yes,no,31383
+101384,any,no,yes,no,no,no,31384
+101385,any,no,yes,yes,no,yes,31385
+101386,house,yes,yes,no,yes,no,31386
+101387,any,no,no,no,yes,no,31387
+101388,house,yes,yes,no,yes,yes,31388
+101389,house,yes,yes,yes,yes,no,31389
+101390,any,no,yes,no,yes,no,31390
+101391,any,no,yes,yes,yes,yes,31391
+101392,any,no,no,yes,yes,yes,31392
+101393,any,no,yes,yes,no,yes,31393
+101394,any,no,yes,yes,yes,no,31394
+101395,any,no,yes,yes,yes,yes,31395
+101396,any,no,yes,yes,no,no,31396
+101397,any,no,yes,yes,yes,yes,31397
+101398,any,no,yes,yes,yes,yes,31398
+101399,any,no,no,yes,no,no,31399
+101400,house,yes,no,yes,no,no,31400
+101401,any,no,yes,yes,no,no,31401
+101402,any,no,yes,no,yes,no,31402
+101403,house,yes,yes,yes,yes,yes,31403
+101404,house,yes,no,yes,yes,yes,31404
+101405,house,yes,yes,no,yes,no,31405
+101406,apartment or condo,no,no,yes,no,no,31406
+101407,any,no,no,yes,yes,no,31407
+101408,house,yes,no,yes,no,no,31408
+101409,house,yes,no,yes,yes,yes,31409
+101410,any,no,yes,yes,yes,yes,31410
+101411,any,no,yes,yes,yes,yes,31411
+101412,house,yes,yes,no,yes,yes,31412
+101413,any,no,no,yes,no,yes,31413
+101414,any,no,no,yes,yes,yes,31414
+101415,house,yes,yes,yes,no,yes,31415
+101416,any,no,yes,yes,no,no,31416
+101417,apartment or condo,no,yes,yes,yes,no,31417
+101418,any,no,yes,no,yes,no,31418
+101419,any,no,yes,yes,yes,no,31419
+101420,house,yes,no,yes,yes,no,31420
+101421,any,no,yes,no,yes,yes,31421
+101422,any,no,yes,yes,no,no,31422
+101423,any,no,yes,yes,no,yes,31423
+101424,any,no,yes,no,yes,yes,31424
+101425,house,yes,yes,yes,yes,yes,31425
+101426,house,yes,yes,yes,yes,no,31426
+101427,any,no,yes,yes,no,no,31427
+101428,any,no,yes,no,yes,yes,31428
+101429,any,no,yes,yes,no,no,31429
+101430,any,no,yes,no,yes,yes,31430
+101431,house,yes,yes,no,yes,no,31431
+101432,any,no,yes,yes,no,yes,31432
+101433,house,yes,no,yes,yes,no,31433
+101434,any,no,yes,no,no,no,31434
+101435,any,no,yes,yes,no,yes,31435
+101436,any,no,yes,yes,no,yes,31436
+101437,any,no,no,no,yes,no,31437
+101438,house,yes,yes,no,yes,no,31438
+101439,house,yes,yes,yes,no,no,31439
+101440,any,no,yes,no,yes,yes,31440
+101441,any,no,yes,yes,no,no,31441
+101442,any,no,yes,yes,no,yes,31442
+101443,apartment or condo,no,no,yes,yes,no,31443
+101444,any,no,yes,no,no,yes,31444
+101445,any,no,yes,no,no,yes,31445
+101446,any,no,no,yes,yes,yes,31446
+101447,any,no,yes,no,yes,no,31447
+101448,any,no,yes,yes,yes,yes,31448
+101449,any,no,yes,yes,no,no,31449
+101450,any,no,yes,yes,no,no,31450
+101451,apartment or condo,no,yes,yes,yes,yes,31451
+101452,house,yes,yes,yes,yes,yes,31452
+101453,any,no,yes,no,yes,yes,31453
+101454,apartment or condo,no,yes,no,yes,no,31454
+101455,apartment or condo,no,yes,no,no,yes,31455
+101456,any,no,yes,yes,no,yes,31456
+101457,any,no,no,yes,no,yes,31457
+101458,any,no,yes,yes,no,yes,31458
+101459,house,yes,yes,yes,no,yes,31459
+101460,any,no,yes,yes,no,no,31460
+101461,apartment or condo,no,yes,yes,yes,no,31461
+101462,any,no,no,yes,yes,yes,31462
+101463,any,no,yes,yes,no,yes,31463
+101464,any,no,no,yes,yes,yes,31464
+101465,any,no,no,yes,yes,yes,31465
+101466,house,yes,yes,yes,yes,no,31466
+101467,any,no,yes,yes,no,no,31467
+101468,any,no,yes,yes,yes,yes,31468
+101469,house,yes,yes,yes,no,yes,31469
+101470,apartment or condo,no,no,yes,yes,yes,31470
+101471,any,no,yes,yes,yes,no,31471
+101472,apartment or condo,no,no,yes,yes,no,31472
+101473,any,no,yes,yes,yes,no,31473
+101474,any,no,yes,no,no,yes,31474
+101475,any,no,yes,no,yes,yes,31475
+101476,any,no,yes,yes,yes,no,31476
+101477,any,no,yes,no,yes,yes,31477
+101478,any,no,yes,no,no,yes,31478
+101479,any,no,no,yes,yes,yes,31479
+101480,any,no,yes,yes,no,no,31480
+101481,apartment or condo,no,yes,yes,yes,no,31481
+101482,any,no,no,no,yes,no,31482
+101483,house,yes,yes,no,no,yes,31483
+101484,any,no,yes,yes,yes,no,31484
+101485,apartment or condo,no,no,yes,no,yes,31485
+101486,any,no,yes,no,no,yes,31486
+101487,any,no,yes,yes,yes,no,31487
+101488,house,yes,yes,yes,no,no,31488
+101489,any,no,yes,yes,yes,yes,31489
+101490,any,no,yes,yes,yes,yes,31490
+101491,any,no,no,yes,no,no,31491
+101492,any,no,no,yes,no,yes,31492
+101493,apartment or condo,no,yes,yes,yes,yes,31493
+101494,house,yes,yes,no,yes,no,31494
+101495,any,no,yes,yes,no,yes,31495
+101496,any,no,no,yes,yes,no,31496
+101497,apartment or condo,no,yes,yes,yes,no,31497
+101498,apartment or condo,no,yes,yes,yes,yes,31498
+101499,any,no,yes,yes,yes,yes,31499
+101500,house,yes,yes,yes,no,yes,31500
+101501,any,no,yes,yes,no,no,31501
+101502,any,no,yes,yes,no,no,31502
+101503,any,no,yes,yes,yes,yes,31503
+101504,any,no,yes,yes,yes,no,31504
+101505,any,no,yes,yes,yes,no,31505
+101506,apartment or condo,no,no,yes,no,yes,31506
+101507,any,no,yes,yes,no,yes,31507
+101508,any,no,yes,yes,yes,yes,31508
+101509,any,no,yes,yes,yes,no,31509
+101510,any,no,yes,yes,yes,no,31510
+101511,any,no,yes,yes,yes,yes,31511
+101512,apartment or condo,no,yes,no,yes,yes,31512
+101513,house,yes,yes,yes,no,no,31513
+101514,any,no,yes,yes,no,no,31514
+101515,any,no,no,yes,yes,no,31515
+101516,any,no,no,yes,yes,yes,31516
+101517,house,yes,yes,yes,yes,yes,31517
+101518,apartment or condo,no,no,yes,yes,yes,31518
+101519,house,yes,yes,no,no,no,31519
+101520,house,yes,yes,yes,yes,yes,31520
+101521,any,no,yes,yes,yes,no,31521
+101522,apartment or condo,no,no,yes,yes,no,31522
+101523,any,no,yes,yes,yes,yes,31523
+101524,any,no,no,yes,yes,no,31524
+101525,any,no,yes,yes,yes,no,31525
+101526,house,yes,yes,yes,no,yes,31526
+101527,any,no,no,yes,yes,no,31527
+101528,any,no,no,yes,yes,yes,31528
+101529,house,yes,yes,yes,yes,yes,31529
+101530,any,no,yes,yes,yes,no,31530
+101531,any,no,yes,yes,yes,no,31531
+101532,house,yes,yes,yes,no,yes,31532
+101533,house,yes,yes,yes,no,no,31533
+101534,apartment or condo,no,no,yes,yes,no,31534
+101535,house,yes,yes,yes,yes,yes,31535
+101536,any,no,yes,yes,yes,no,31536
+101537,any,no,no,no,yes,yes,31537
+101538,apartment or condo,no,yes,yes,no,yes,31538
+101539,any,no,yes,yes,no,no,31539
+101540,any,no,yes,no,yes,no,31540
+101541,any,no,no,yes,yes,no,31541
+101542,house,yes,yes,yes,yes,yes,31542
+101543,any,no,yes,yes,yes,yes,31543
+101544,any,no,yes,yes,no,yes,31544
+101545,apartment or condo,no,yes,no,no,no,31545
+101546,any,no,yes,yes,no,yes,31546
+101547,house,yes,yes,yes,yes,yes,31547
+101548,any,no,no,yes,yes,no,31548
+101549,any,no,yes,yes,yes,yes,31549
+101550,any,no,yes,yes,no,no,31550
+101551,apartment or condo,no,no,yes,no,no,31551
+101552,any,no,yes,yes,yes,no,31552
+101553,any,no,yes,yes,no,yes,31553
+101554,any,no,no,yes,yes,yes,31554
+101555,any,no,yes,yes,no,no,31555
+101556,apartment or condo,no,yes,yes,no,no,31556
+101557,any,no,yes,yes,yes,yes,31557
+101558,any,no,yes,yes,yes,no,31558
+101559,any,no,yes,no,no,yes,31559
+101560,apartment or condo,no,no,yes,yes,yes,31560
+101561,apartment or condo,no,yes,yes,no,yes,31561
+101562,any,no,no,no,yes,yes,31562
+101563,house,yes,yes,yes,yes,no,31563
+101564,any,no,yes,yes,no,no,31564
+101565,any,no,yes,no,yes,yes,31565
+101566,any,no,no,yes,no,no,31566
+101567,house,yes,yes,yes,no,yes,31567
+101568,apartment or condo,no,yes,no,no,no,31568
+101569,any,no,yes,yes,yes,yes,31569
+101570,apartment or condo,no,yes,yes,yes,no,31570
+101571,any,no,yes,yes,no,yes,31571
+101572,apartment or condo,no,no,no,no,yes,31572
+101573,any,no,yes,yes,yes,yes,31573
+101574,apartment or condo,no,yes,yes,no,yes,31574
+101575,house,yes,no,no,no,yes,31575
+101576,any,no,yes,yes,no,yes,31576
+101577,any,no,yes,no,no,yes,31577
+101578,any,no,yes,yes,yes,yes,31578
+101579,any,no,yes,yes,yes,no,31579
+101580,apartment or condo,no,yes,yes,no,no,31580
+101581,any,no,yes,yes,no,yes,31581
+101582,house,yes,yes,yes,yes,yes,31582
+101583,any,no,yes,yes,no,yes,31583
+101584,house,yes,no,yes,yes,yes,31584
+101585,any,no,no,yes,yes,no,31585
+101586,house,yes,yes,yes,yes,no,31586
+101587,any,no,yes,yes,no,no,31587
+101588,any,no,no,yes,no,no,31588
+101589,house,yes,yes,yes,no,no,31589
+101590,any,no,no,yes,yes,no,31590
+101591,any,no,yes,no,yes,yes,31591
+101592,house,yes,yes,yes,no,yes,31592
+101593,apartment or condo,no,yes,yes,yes,no,31593
+101594,any,no,no,yes,yes,yes,31594
+101595,any,no,no,yes,yes,yes,31595
+101596,any,no,yes,yes,yes,yes,31596
+101597,any,no,yes,yes,yes,yes,31597
+101598,any,no,yes,yes,yes,no,31598
+101599,house,yes,yes,yes,yes,yes,31599
+101600,apartment or condo,no,yes,yes,no,no,31600
+101601,apartment or condo,no,yes,yes,no,no,31601
+101602,any,no,yes,yes,yes,yes,31602
+101603,house,yes,yes,yes,yes,no,31603
+101604,any,no,yes,yes,yes,no,31604
+101605,any,no,yes,no,yes,yes,31605
+101606,house,yes,yes,yes,yes,yes,31606
+101607,house,yes,no,yes,no,no,31607
+101608,house,yes,yes,yes,no,yes,31608
+101609,any,no,no,no,no,yes,31609
+101610,any,no,no,no,no,yes,31610
+101611,house,yes,yes,yes,yes,yes,31611
+101612,any,no,yes,yes,yes,no,31612
+101613,any,no,yes,yes,no,yes,31613
+101614,any,no,yes,yes,yes,no,31614
+101615,house,yes,yes,yes,yes,no,31615
+101616,apartment or condo,no,yes,no,no,yes,31616
+101617,any,no,no,yes,no,yes,31617
+101618,any,no,yes,yes,yes,no,31618
+101619,house,yes,yes,yes,no,yes,31619
+101620,any,no,yes,no,no,no,31620
+101621,apartment or condo,no,yes,yes,no,yes,31621
+101622,any,no,yes,no,no,yes,31622
+101623,house,yes,no,yes,no,no,31623
+101624,apartment or condo,no,yes,yes,yes,yes,31624
+101625,house,yes,no,yes,yes,no,31625
+101626,any,no,yes,yes,no,no,31626
+101627,any,no,yes,yes,yes,no,31627
+101628,apartment or condo,no,yes,yes,yes,no,31628
+101629,any,no,yes,yes,no,no,31629
+101630,house,yes,yes,yes,yes,yes,31630
+101631,any,no,yes,no,yes,yes,31631
+101632,house,yes,yes,yes,no,no,31632
+101633,any,no,yes,yes,no,yes,31633
+101634,any,no,yes,yes,yes,yes,31634
+101635,house,yes,yes,no,yes,no,31635
+101636,any,no,no,yes,yes,no,31636
+101637,apartment or condo,no,no,yes,yes,no,31637
+101638,apartment or condo,no,yes,yes,yes,yes,31638
+101639,any,no,no,yes,yes,yes,31639
+101640,any,no,no,yes,no,no,31640
+101641,any,no,no,yes,no,yes,31641
+101642,any,no,no,yes,no,no,31642
+101643,house,yes,yes,yes,no,yes,31643
+101644,any,no,yes,yes,no,no,31644
+101645,apartment or condo,no,yes,yes,yes,yes,31645
+101646,apartment or condo,no,yes,no,yes,no,31646
+101647,any,no,yes,yes,yes,yes,31647
+101648,any,no,yes,yes,yes,yes,31648
+101649,any,no,no,yes,yes,yes,31649
+101650,house,yes,no,yes,no,yes,31650
+101651,apartment or condo,no,yes,yes,no,yes,31651
+101652,apartment or condo,no,yes,yes,yes,no,31652
+101653,apartment or condo,no,no,yes,yes,yes,31653
+101654,any,no,yes,no,yes,no,31654
+101655,house,yes,yes,yes,no,yes,31655
+101656,any,no,no,no,yes,no,31656
+101657,any,no,yes,yes,yes,no,31657
+101658,any,no,yes,yes,no,no,31658
+101659,apartment or condo,no,yes,no,yes,yes,31659
+101660,apartment or condo,no,yes,yes,yes,no,31660
+101661,any,no,yes,yes,yes,yes,31661
+101662,house,yes,yes,yes,yes,no,31662
+101663,house,yes,yes,yes,yes,no,31663
+101664,apartment or condo,no,yes,yes,no,no,31664
+101665,any,no,yes,no,yes,no,31665
+101666,house,yes,yes,yes,no,yes,31666
+101667,house,yes,yes,yes,no,no,31667
+101668,any,no,yes,yes,no,no,31668
+101669,any,no,yes,yes,yes,no,31669
+101670,any,no,yes,no,yes,yes,31670
+101671,any,no,yes,no,yes,no,31671
+101672,any,no,yes,yes,yes,no,31672
+101673,any,no,no,yes,no,yes,31673
+101674,apartment or condo,no,yes,yes,yes,yes,31674
+101675,any,no,yes,yes,no,yes,31675
+101676,any,no,yes,yes,no,no,31676
+101677,any,no,no,yes,yes,no,31677
+101678,any,no,no,no,no,no,31678
+101679,any,no,yes,yes,no,no,31679
+101680,any,no,yes,yes,no,no,31680
+101681,apartment or condo,no,no,yes,yes,yes,31681
+101682,any,no,yes,yes,yes,no,31682
+101683,house,yes,no,yes,yes,no,31683
+101684,any,no,yes,yes,yes,yes,31684
+101685,house,yes,no,yes,yes,yes,31685
+101686,house,yes,no,yes,no,no,31686
+101687,house,yes,yes,yes,no,no,31687
+101688,any,no,yes,yes,yes,no,31688
+101689,house,yes,yes,yes,yes,yes,31689
+101690,any,no,yes,yes,yes,no,31690
+101691,any,no,yes,yes,yes,no,31691
+101692,any,no,yes,yes,yes,no,31692
+101693,any,no,no,yes,yes,yes,31693
+101694,any,no,yes,yes,no,no,31694
+101695,any,no,yes,yes,yes,yes,31695
+101696,any,no,no,yes,no,no,31696
+101697,apartment or condo,no,yes,no,no,no,31697
+101698,house,yes,no,no,no,yes,31698
+101699,any,no,yes,no,no,yes,31699
+101700,any,no,no,yes,yes,no,31700
+101701,any,no,no,yes,no,yes,31701
+101702,any,no,no,yes,yes,no,31702
+101703,apartment or condo,no,yes,yes,yes,no,31703
+101704,any,no,yes,yes,no,no,31704
+101705,any,no,yes,yes,yes,yes,31705
+101706,any,no,yes,yes,yes,yes,31706
+101707,any,no,no,no,yes,yes,31707
+101708,any,no,yes,yes,no,yes,31708
+101709,house,yes,yes,yes,yes,yes,31709
+101710,any,no,yes,yes,yes,no,31710
+101711,house,yes,yes,no,no,no,31711
+101712,any,no,yes,no,no,no,31712
+101713,apartment or condo,no,yes,yes,no,no,31713
+101714,any,no,yes,no,yes,yes,31714
+101715,any,no,yes,yes,yes,yes,31715
+101716,apartment or condo,no,no,yes,no,no,31716
+101717,any,no,yes,yes,no,no,31717
+101718,house,yes,no,yes,no,yes,31718
+101719,any,no,yes,yes,yes,yes,31719
+101720,any,no,yes,yes,no,no,31720
+101721,any,no,yes,yes,yes,no,31721
+101722,any,no,yes,yes,yes,yes,31722
+101723,any,no,yes,yes,no,yes,31723
+101724,any,no,yes,yes,no,no,31724
+101725,any,no,yes,yes,yes,yes,31725
+101726,any,no,yes,yes,yes,no,31726
+101727,any,no,no,yes,no,yes,31727
+101728,any,no,yes,no,yes,no,31728
+101729,any,no,yes,no,no,yes,31729
+101730,house,yes,yes,yes,yes,yes,31730
+101731,any,no,yes,no,no,yes,31731
+101732,apartment or condo,no,yes,yes,no,yes,31732
+101733,any,no,no,no,no,yes,31733
+101734,house,yes,yes,yes,no,yes,31734
+101735,apartment or condo,no,yes,yes,yes,yes,31735
+101736,apartment or condo,no,yes,yes,yes,no,31736
+101737,any,no,no,yes,yes,yes,31737
+101738,apartment or condo,no,no,yes,yes,yes,31738
+101739,any,no,yes,no,no,no,31739
+101740,house,yes,yes,no,no,yes,31740
+101741,any,no,yes,yes,no,no,31741
+101742,house,yes,yes,yes,yes,no,31742
+101743,any,no,yes,yes,no,yes,31743
+101744,any,no,no,yes,no,no,31744
+101745,any,no,no,yes,no,yes,31745
+101746,any,no,yes,yes,yes,yes,31746
+101747,any,no,no,yes,yes,no,31747
+101748,any,no,yes,yes,no,no,31748
+101749,house,yes,yes,no,no,yes,31749
+101750,apartment or condo,no,yes,yes,no,no,31750
+101751,any,no,yes,yes,yes,no,31751
+101752,house,yes,yes,no,yes,yes,31752
+101753,any,no,yes,yes,yes,yes,31753
+101754,apartment or condo,no,yes,no,no,yes,31754
+101755,apartment or condo,no,no,yes,yes,no,31755
+101756,apartment or condo,no,yes,yes,no,yes,31756
+101757,any,no,no,yes,yes,yes,31757
+101758,any,no,yes,no,no,no,31758
+101759,any,no,yes,yes,yes,no,31759
+101760,house,yes,no,no,yes,yes,31760
+101761,any,no,yes,yes,yes,yes,31761
+101762,any,no,no,yes,yes,no,31762
+101763,any,no,yes,yes,yes,no,31763
+101764,house,yes,yes,yes,yes,no,31764
+101765,any,no,yes,yes,yes,yes,31765
+101766,any,no,yes,yes,no,yes,31766
+101767,any,no,yes,yes,yes,yes,31767
+101768,apartment or condo,no,yes,yes,yes,yes,31768
+101769,any,no,no,yes,yes,yes,31769
+101770,apartment or condo,no,yes,yes,yes,no,31770
+101771,any,no,no,yes,yes,no,31771
+101772,any,no,yes,yes,no,no,31772
+101773,any,no,yes,yes,no,no,31773
+101774,house,yes,yes,yes,yes,no,31774
+101775,house,yes,yes,yes,yes,yes,31775
+101776,any,no,no,yes,yes,no,31776
+101777,house,yes,yes,yes,yes,yes,31777
+101778,any,no,yes,yes,yes,no,31778
+101779,any,no,no,yes,no,yes,31779
+101780,any,no,yes,yes,no,yes,31780
+101781,any,no,yes,yes,no,yes,31781
+101782,any,no,yes,no,no,yes,31782
+101783,any,no,no,yes,yes,no,31783
+101784,any,no,no,yes,yes,no,31784
+101785,any,no,no,yes,yes,yes,31785
+101786,house,yes,yes,yes,yes,no,31786
+101787,any,no,yes,yes,no,yes,31787
+101788,house,yes,yes,yes,no,no,31788
+101789,any,no,yes,yes,yes,no,31789
+101790,apartment or condo,no,no,yes,yes,no,31790
+101791,house,yes,yes,no,no,no,31791
+101792,any,no,yes,yes,no,yes,31792
+101793,any,no,yes,yes,yes,yes,31793
+101794,house,yes,no,yes,yes,yes,31794
+101795,any,no,yes,yes,yes,no,31795
+101796,any,no,yes,yes,no,no,31796
+101797,any,no,yes,yes,no,yes,31797
+101798,any,no,yes,no,yes,yes,31798
+101799,any,no,yes,yes,no,no,31799

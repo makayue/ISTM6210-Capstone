@@ -1,0 +1,451 @@
+homeId,homeType,fencedBackyard,homeOwnership,residents,pets,petsVaccinated,fosterId
+71000,apartment or condo,no,no,4,1,no,51000
+71001,apartment or condo,no,no,4,0,not applicable,51001
+71002,house,no,no,3,3,yes,51002
+71003,house,no,no,2,0,not applicable,51003
+71004,house,no,yes,1,1,yes,51004
+71005,apartment or condo,no,no,1,4,no,51005
+71006,house,yes,yes,1,1,yes,51006
+71007,house,yes,no,3,0,not applicable,51007
+71008,house,yes,yes,1,0,not applicable,51008
+71009,house,no,no,2,2,no,51009
+71010,apartment or condo,no,yes,3,0,not applicable,51010
+71011,apartment or condo,no,yes,2,3,no,51011
+71012,house,no,yes,2,4,yes,51012
+71013,apartment or condo,no,yes,1,1,yes,51013
+71014,apartment or condo,no,no,1,3,yes,51014
+71015,apartment or condo,no,no,4,1,no,51015
+71016,house,no,yes,2,3,yes,51016
+71017,apartment or condo,no,yes,1,2,yes,51017
+71018,house,yes,yes,1,0,not applicable,51018
+71019,house,yes,no,1,1,yes,51019
+71020,house,yes,yes,2,4,no,51020
+71021,house,yes,no,1,0,not applicable,51021
+71022,house,yes,no,6,0,not applicable,51022
+71023,house,yes,yes,2,0,not applicable,51023
+71024,house,no,no,1,0,not applicable,51024
+71025,apartment or condo,no,yes,6,1,yes,51025
+71026,house,yes,yes,2,2,yes,51026
+71027,house,yes,yes,6,1,yes,51027
+71028,house,yes,no,2,3,yes,51028
+71029,apartment or condo,no,no,1,2,yes,51029
+71030,apartment or condo,no,no,1,1,yes,51030
+71031,apartment or condo,no,yes,1,2,yes,51031
+71032,house,yes,no,2,4,yes,51032
+71033,house,yes,no,2,3,yes,51033
+71034,house,yes,yes,5,1,yes,51034
+71035,apartment or condo,no,no,6,2,yes,51035
+71036,apartment or condo,no,yes,3,1,yes,51036
+71037,house,yes,no,2,4,yes,51037
+71038,house,no,yes,3,2,yes,51038
+71039,apartment or condo,no,yes,1,1,yes,51039
+71040,house,yes,no,2,3,no,51040
+71041,house,no,yes,3,2,yes,51041
+71042,apartment or condo,no,no,2,0,not applicable,51042
+71043,house,yes,no,4,1,no,51043
+71044,house,yes,no,2,1,yes,51044
+71045,apartment or condo,no,yes,2,1,no,51045
+71046,apartment or condo,no,no,5,2,yes,51046
+71047,apartment or condo,no,no,2,1,yes,51047
+71048,apartment or condo,no,no,1,1,yes,51048
+71049,house,yes,no,1,0,not applicable,51049
+71050,house,yes,no,5,0,not applicable,51050
+71051,house,yes,yes,1,0,not applicable,51051
+71052,apartment or condo,no,yes,3,1,yes,51052
+71053,apartment or condo,no,yes,6,1,no,51053
+71054,house,yes,no,1,2,no,51054
+71055,house,no,yes,1,0,not applicable,51055
+71056,apartment or condo,no,no,2,1,no,51056
+71057,house,yes,yes,2,1,yes,51057
+71058,apartment or condo,no,yes,5,1,yes,51058
+71059,apartment or condo,no,yes,4,2,yes,51059
+71060,house,yes,yes,3,0,not applicable,51060
+71061,house,yes,yes,1,0,not applicable,51061
+71062,apartment or condo,no,yes,1,1,yes,51062
+71063,apartment or condo,no,no,6,1,no,51063
+71064,house,no,no,1,0,not applicable,51064
+71065,house,no,no,6,0,not applicable,51065
+71066,house,no,no,2,2,yes,51066
+71067,house,yes,yes,2,4,yes,51067
+71068,house,yes,yes,4,1,yes,51068
+71069,house,no,no,4,1,yes,51069
+71070,house,yes,no,3,0,not applicable,51070
+71071,apartment or condo,no,no,2,3,yes,51071
+71072,house,yes,no,6,4,yes,51072
+71073,apartment or condo,no,no,2,1,yes,51073
+71074,house,no,yes,2,1,yes,51074
+71075,apartment or condo,no,no,5,3,yes,51075
+71076,apartment or condo,no,no,2,3,no,51076
+71077,apartment or condo,no,yes,2,2,yes,51077
+71078,apartment or condo,no,no,4,0,not applicable,51078
+71079,house,yes,yes,3,1,yes,51079
+71080,apartment or condo,no,no,1,4,yes,51080
+71081,house,yes,no,1,4,no,51081
+71082,house,yes,no,2,1,yes,51082
+71083,house,yes,yes,6,2,yes,51083
+71084,apartment or condo,no,yes,1,0,not applicable,51084
+71085,house,yes,no,6,0,not applicable,51085
+71086,house,yes,no,2,1,yes,51086
+71087,apartment or condo,no,yes,2,2,yes,51087
+71088,apartment or condo,no,no,5,1,no,51088
+71089,house,no,yes,2,2,yes,51089
+71090,house,no,no,6,1,yes,51090
+71091,house,yes,yes,6,2,no,51091
+71092,house,no,yes,4,1,yes,51092
+71093,house,yes,yes,6,1,yes,51093
+71094,house,no,no,2,4,no,51094
+71095,house,no,no,2,1,yes,51095
+71096,house,yes,yes,1,2,yes,51096
+71097,house,no,yes,2,4,no,51097
+71098,house,no,no,3,0,not applicable,51098
+71099,house,yes,yes,2,4,yes,51099
+71100,house,yes,no,4,0,not applicable,51100
+71101,house,no,no,1,2,yes,51101
+71102,house,yes,yes,2,0,not applicable,51102
+71103,house,yes,yes,1,0,not applicable,51103
+71104,house,no,no,1,2,yes,51104
+71105,apartment or condo,no,yes,4,2,yes,51105
+71106,house,no,no,1,1,yes,51106
+71107,house,yes,no,3,1,yes,51107
+71108,apartment or condo,no,yes,2,2,yes,51108
+71109,house,yes,no,1,4,no,51109
+71110,apartment or condo,no,no,2,1,yes,51110
+71111,apartment or condo,no,yes,2,0,not applicable,51111
+71112,house,yes,no,2,0,not applicable,51112
+71113,apartment or condo,no,no,2,0,not applicable,51113
+71114,house,no,yes,2,1,yes,51114
+71115,house,yes,no,2,2,yes,51115
+71116,house,yes,no,3,4,no,51116
+71117,house,yes,no,2,0,not applicable,51117
+71118,house,yes,no,1,1,yes,51118
+71119,house,yes,yes,1,3,yes,51119
+71120,house,no,yes,6,2,yes,51120
+71121,house,no,yes,2,0,not applicable,51121
+71122,apartment or condo,no,yes,5,1,yes,51122
+71123,apartment or condo,no,no,2,2,yes,51123
+71124,house,yes,yes,2,0,not applicable,51124
+71125,apartment or condo,no,no,5,0,not applicable,51125
+71126,apartment or condo,no,yes,1,0,not applicable,51126
+71127,apartment or condo,no,no,1,3,yes,51127
+71128,house,yes,yes,2,0,not applicable,51128
+71129,house,no,no,3,2,yes,51129
+71130,apartment or condo,no,no,1,4,yes,51130
+71131,apartment or condo,no,yes,2,1,no,51131
+71132,house,yes,no,5,0,not applicable,51132
+71133,apartment or condo,no,no,4,2,yes,51133
+71134,house,yes,yes,3,1,no,51134
+71135,house,yes,no,1,0,not applicable,51135
+71136,apartment or condo,no,no,1,2,yes,51136
+71137,apartment or condo,no,no,3,0,not applicable,51137
+71138,apartment or condo,no,no,1,2,yes,51138
+71139,house,no,yes,1,0,not applicable,51139
+71140,house,no,no,1,0,not applicable,51140
+71141,apartment or condo,no,no,3,0,not applicable,51141
+71142,house,no,no,6,0,not applicable,51142
+71143,apartment or condo,no,no,2,4,yes,51143
+71144,house,yes,yes,6,2,yes,51144
+71145,apartment or condo,no,yes,5,2,yes,51145
+71146,house,yes,yes,3,0,not applicable,51146
+71147,apartment or condo,no,no,2,1,yes,51147
+71148,house,yes,no,5,2,yes,51148
+71149,house,no,no,4,1,no,51149
+71150,house,no,yes,1,1,yes,51150
+71151,apartment or condo,no,no,1,4,yes,51151
+71152,apartment or condo,no,no,4,1,yes,51152
+71153,house,yes,no,1,0,not applicable,51153
+71154,apartment or condo,no,no,2,1,yes,51154
+71155,house,yes,no,2,2,yes,51155
+71156,apartment or condo,no,no,3,2,yes,51156
+71157,house,yes,yes,6,0,not applicable,51157
+71158,house,yes,no,2,3,yes,51158
+71159,apartment or condo,no,no,1,2,yes,51159
+71160,apartment or condo,no,yes,3,2,yes,51160
+71161,house,yes,no,3,4,yes,51161
+71162,apartment or condo,no,yes,2,3,yes,51162
+71163,house,yes,no,6,1,yes,51163
+71164,house,yes,no,1,4,no,51164
+71165,apartment or condo,no,no,2,2,no,51165
+71166,house,no,no,1,1,yes,51166
+71167,house,yes,no,6,0,not applicable,51167
+71168,house,yes,no,3,0,not applicable,51168
+71169,apartment or condo,no,yes,2,2,no,51169
+71170,apartment or condo,no,no,2,1,no,51170
+71171,house,yes,yes,1,2,yes,51171
+71172,apartment or condo,no,yes,2,3,yes,51172
+71173,house,no,no,6,2,yes,51173
+71174,house,yes,no,1,1,no,51174
+71175,house,no,no,2,4,no,51175
+71176,house,yes,yes,2,1,no,51176
+71177,house,yes,no,2,0,not applicable,51177
+71178,apartment or condo,no,yes,3,0,not applicable,51178
+71179,house,no,no,1,3,yes,51179
+71180,house,yes,yes,3,1,yes,51180
+71181,apartment or condo,no,no,2,0,not applicable,51181
+71182,house,yes,no,2,0,not applicable,51182
+71183,apartment or condo,no,yes,1,0,not applicable,51183
+71184,house,yes,no,1,0,not applicable,51184
+71185,apartment or condo,no,no,4,3,yes,51185
+71186,apartment or condo,no,yes,5,2,yes,51186
+71187,apartment or condo,no,yes,2,2,yes,51187
+71188,house,no,yes,2,0,not applicable,51188
+71189,house,yes,no,2,2,yes,51189
+71190,apartment or condo,no,no,2,3,yes,51190
+71191,house,yes,no,1,2,yes,51191
+71192,house,yes,yes,5,1,yes,51192
+71193,apartment or condo,no,yes,1,1,no,51193
+71194,house,yes,no,2,2,yes,51194
+71195,apartment or condo,no,no,1,4,yes,51195
+71196,house,yes,no,1,2,yes,51196
+71197,apartment or condo,no,no,1,3,no,51197
+71198,house,no,yes,2,2,no,51198
+71199,apartment or condo,no,no,1,0,not applicable,51199
+71200,house,yes,yes,2,2,yes,51200
+71201,apartment or condo,no,no,4,0,not applicable,51201
+71202,house,no,yes,1,3,yes,51202
+71203,house,yes,yes,2,0,not applicable,51203
+71204,apartment or condo,no,no,1,0,not applicable,51204
+71205,house,yes,no,2,2,no,51205
+71206,apartment or condo,no,no,2,3,yes,51206
+71207,house,yes,no,2,0,not applicable,51207
+71208,house,no,no,1,1,yes,51208
+71209,house,yes,no,1,1,yes,51209
+71210,apartment or condo,no,no,3,1,yes,51210
+71211,house,yes,yes,2,0,not applicable,51211
+71212,apartment or condo,no,yes,3,3,yes,51212
+71213,apartment or condo,no,yes,5,1,yes,51213
+71214,apartment or condo,no,no,2,1,yes,51214
+71215,house,no,yes,1,0,not applicable,51215
+71216,apartment or condo,no,yes,2,0,not applicable,51216
+71217,apartment or condo,no,no,1,4,yes,51217
+71218,apartment or condo,no,yes,3,0,not applicable,51218
+71219,house,yes,yes,2,1,yes,51219
+71220,apartment or condo,no,no,6,1,yes,51220
+71221,house,no,no,1,1,yes,51221
+71222,apartment or condo,no,no,1,4,yes,51222
+71223,house,no,no,1,3,no,51223
+71224,house,yes,yes,2,0,not applicable,51224
+71225,house,no,yes,2,0,not applicable,51225
+71226,apartment or condo,no,yes,2,0,not applicable,51226
+71227,house,yes,no,2,0,not applicable,51227
+71228,apartment or condo,no,no,2,4,yes,51228
+71229,house,yes,no,2,0,not applicable,51229
+71230,house,yes,yes,2,1,yes,51230
+71231,apartment or condo,no,no,6,0,not applicable,51231
+71232,house,no,no,5,0,not applicable,51232
+71233,house,yes,no,3,2,yes,51233
+71234,apartment or condo,no,no,1,1,yes,51234
+71235,house,no,yes,6,1,yes,51235
+71236,house,no,no,3,0,not applicable,51236
+71237,house,yes,no,4,0,not applicable,51237
+71238,house,no,no,1,0,not applicable,51238
+71239,house,no,yes,1,1,yes,51239
+71240,house,yes,yes,2,0,not applicable,51240
+71241,house,yes,no,5,2,yes,51241
+71242,apartment or condo,no,yes,3,3,yes,51242
+71243,house,yes,yes,1,0,not applicable,51243
+71244,house,yes,no,2,1,yes,51244
+71245,house,yes,yes,5,4,yes,51245
+71246,house,yes,yes,3,2,yes,51246
+71247,house,yes,no,2,2,yes,51247
+71248,house,no,no,2,3,yes,51248
+71249,apartment or condo,no,yes,2,3,yes,51249
+71250,house,yes,no,6,0,not applicable,51250
+71251,apartment or condo,no,no,6,1,yes,51251
+71252,apartment or condo,no,no,4,1,yes,51252
+71253,house,yes,yes,4,2,no,51253
+71254,apartment or condo,no,no,2,4,yes,51254
+71255,apartment or condo,no,no,1,0,not applicable,51255
+71256,apartment or condo,no,no,2,0,not applicable,51256
+71257,apartment or condo,no,yes,1,1,yes,51257
+71258,apartment or condo,no,yes,6,4,yes,51258
+71259,house,yes,no,3,0,not applicable,51259
+71260,apartment or condo,no,no,4,2,yes,51260
+71261,house,no,yes,1,4,yes,51261
+71262,apartment or condo,no,no,2,0,not applicable,51262
+71263,apartment or condo,no,yes,1,0,not applicable,51263
+71264,house,yes,no,2,0,not applicable,51264
+71265,house,yes,no,3,2,yes,51265
+71266,apartment or condo,no,yes,3,0,not applicable,51266
+71267,house,no,no,5,0,not applicable,51267
+71268,apartment or condo,no,no,5,1,yes,51268
+71269,house,yes,no,2,0,not applicable,51269
+71270,apartment or condo,no,no,2,1,yes,51270
+71271,house,no,yes,2,3,no,51271
+71272,apartment or condo,no,no,1,0,not applicable,51272
+71273,apartment or condo,no,no,3,1,no,51273
+71274,apartment or condo,no,no,1,3,yes,51274
+71275,house,no,no,2,2,yes,51275
+71276,house,no,no,6,1,no,51276
+71277,apartment or condo,no,yes,5,1,yes,51277
+71278,apartment or condo,no,no,1,0,not applicable,51278
+71279,house,yes,yes,2,2,yes,51279
+71280,apartment or condo,no,yes,6,0,not applicable,51280
+71281,apartment or condo,no,yes,2,3,yes,51281
+71282,apartment or condo,no,yes,1,2,yes,51282
+71283,house,no,yes,1,1,yes,51283
+71284,apartment or condo,no,no,3,1,yes,51284
+71285,house,no,yes,4,4,no,51285
+71286,apartment or condo,no,yes,6,3,yes,51286
+71287,house,yes,no,2,0,not applicable,51287
+71288,apartment or condo,no,yes,2,0,not applicable,51288
+71289,apartment or condo,no,yes,2,2,yes,51289
+71290,house,no,no,3,2,yes,51290
+71291,apartment or condo,no,no,1,2,yes,51291
+71292,apartment or condo,no,no,2,4,yes,51292
+71293,apartment or condo,no,yes,5,1,yes,51293
+71294,house,no,yes,3,0,not applicable,51294
+71295,house,no,yes,1,1,yes,51295
+71296,house,yes,yes,6,2,yes,51296
+71297,apartment or condo,no,no,3,1,yes,51297
+71298,apartment or condo,no,no,1,0,not applicable,51298
+71299,house,yes,yes,5,0,not applicable,51299
+71300,house,yes,no,3,3,yes,51300
+71301,house,no,no,2,4,yes,51301
+71302,house,yes,no,3,2,no,51302
+71303,house,no,yes,3,1,yes,51303
+71304,house,yes,yes,2,2,yes,51304
+71305,house,yes,no,2,4,yes,51305
+71306,house,yes,yes,1,2,yes,51306
+71307,house,yes,no,1,1,no,51307
+71308,house,yes,no,6,0,not applicable,51308
+71309,house,yes,no,4,0,not applicable,51309
+71310,house,yes,yes,6,2,yes,51310
+71311,apartment or condo,no,no,3,3,yes,51311
+71312,house,yes,no,1,3,yes,51312
+71313,apartment or condo,no,no,6,1,yes,51313
+71314,house,yes,yes,2,1,yes,51314
+71315,house,no,no,2,4,yes,51315
+71316,apartment or condo,no,no,2,4,yes,51316
+71317,apartment or condo,no,yes,3,0,not applicable,51317
+71318,house,no,no,2,0,not applicable,51318
+71319,house,yes,no,1,2,no,51319
+71320,house,yes,no,1,0,not applicable,51320
+71321,apartment or condo,no,no,1,1,yes,51321
+71322,house,no,yes,3,0,not applicable,51322
+71323,house,yes,no,3,3,no,51323
+71324,house,no,yes,4,0,not applicable,51324
+71325,apartment or condo,no,no,2,3,yes,51325
+71326,house,yes,yes,2,0,not applicable,51326
+71327,house,yes,no,4,2,yes,51327
+71328,house,no,yes,2,0,not applicable,51328
+71329,house,yes,no,4,1,yes,51329
+71330,house,yes,yes,4,1,yes,51330
+71331,house,yes,no,2,4,yes,51331
+71332,house,no,yes,5,0,not applicable,51332
+71333,apartment or condo,no,no,3,2,no,51333
+71334,apartment or condo,no,no,1,3,yes,51334
+71335,apartment or condo,no,no,4,0,not applicable,51335
+71336,house,no,no,6,1,yes,51336
+71337,apartment or condo,no,no,2,4,yes,51337
+71338,apartment or condo,no,no,6,0,not applicable,51338
+71339,house,yes,yes,1,4,no,51339
+71340,house,no,no,1,1,no,51340
+71341,house,no,yes,4,1,yes,51341
+71342,apartment or condo,no,yes,5,3,no,51342
+71343,apartment or condo,no,no,2,3,yes,51343
+71344,house,yes,no,1,2,no,51344
+71345,house,no,yes,6,4,yes,51345
+71346,apartment or condo,no,no,3,2,yes,51346
+71347,house,yes,no,3,1,yes,51347
+71348,house,no,yes,5,0,not applicable,51348
+71349,apartment or condo,no,no,1,4,yes,51349
+71350,house,yes,no,2,1,yes,51350
+71351,house,no,no,3,2,yes,51351
+71352,apartment or condo,no,yes,2,0,not applicable,51352
+71353,house,yes,yes,1,1,yes,51353
+71354,apartment or condo,no,no,5,3,yes,51354
+71355,apartment or condo,no,no,6,0,not applicable,51355
+71356,house,no,no,5,4,yes,51356
+71357,apartment or condo,no,yes,2,1,yes,51357
+71358,house,yes,yes,3,2,no,51358
+71359,house,yes,yes,2,1,yes,51359
+71360,house,no,yes,1,2,yes,51360
+71361,house,no,no,6,2,yes,51361
+71362,house,yes,no,6,0,not applicable,51362
+71363,house,yes,yes,5,2,yes,51363
+71364,house,yes,no,2,0,not applicable,51364
+71365,apartment or condo,no,no,1,1,yes,51365
+71366,house,yes,yes,1,3,yes,51366
+71367,house,yes,yes,2,3,yes,51367
+71368,apartment or condo,no,yes,2,0,not applicable,51368
+71369,house,yes,no,2,1,yes,51369
+71370,apartment or condo,no,no,4,1,yes,51370
+71371,house,no,no,2,0,not applicable,51371
+71372,apartment or condo,no,yes,2,1,yes,51372
+71373,house,no,yes,2,1,yes,51373
+71374,apartment or condo,no,yes,2,1,yes,51374
+71375,house,yes,yes,5,1,yes,51375
+71376,house,yes,no,2,2,yes,51376
+71377,apartment or condo,no,no,2,0,not applicable,51377
+71378,apartment or condo,no,no,2,2,yes,51378
+71379,apartment or condo,no,no,3,0,not applicable,51379
+71380,house,no,no,1,3,yes,51380
+71381,apartment or condo,no,no,1,2,yes,51381
+71382,apartment or condo,no,no,6,4,yes,51382
+71383,house,yes,no,2,2,yes,51383
+71384,house,yes,no,1,1,yes,51384
+71385,apartment or condo,no,yes,1,0,not applicable,51385
+71386,apartment or condo,no,no,4,0,not applicable,51386
+71387,house,yes,no,1,2,no,51387
+71388,house,yes,no,2,1,no,51388
+71389,apartment or condo,no,no,5,1,yes,51389
+71390,house,yes,yes,1,2,yes,51390
+71391,house,yes,yes,4,1,yes,51391
+71392,house,yes,yes,1,1,no,51392
+71393,house,yes,no,4,2,yes,51393
+71394,house,yes,yes,4,3,yes,51394
+71395,apartment or condo,no,yes,4,2,no,51395
+71396,apartment or condo,no,no,1,2,yes,51396
+71397,house,yes,yes,4,0,not applicable,51397
+71398,house,yes,no,2,1,no,51398
+71399,house,yes,no,6,0,not applicable,51399
+71400,apartment or condo,no,no,3,0,not applicable,51400
+71401,house,no,no,2,2,yes,51401
+71402,house,no,no,1,0,not applicable,51402
+71403,house,yes,no,1,0,not applicable,51403
+71404,house,yes,yes,3,0,not applicable,51404
+71405,house,no,no,2,0,not applicable,51405
+71406,apartment or condo,no,yes,2,4,yes,51406
+71407,house,yes,no,2,3,yes,51407
+71408,house,yes,yes,3,4,yes,51408
+71409,house,yes,yes,2,1,yes,51409
+71410,house,no,no,4,2,yes,51410
+71411,house,no,no,2,1,no,51411
+71412,house,yes,yes,1,0,not applicable,51412
+71413,apartment or condo,no,yes,4,0,not applicable,51413
+71414,house,yes,no,5,2,yes,51414
+71415,house,yes,no,3,2,yes,51415
+71416,house,yes,no,4,1,yes,51416
+71417,house,yes,yes,3,0,not applicable,51417
+71418,house,no,yes,6,3,yes,51418
+71419,house,yes,no,1,1,yes,51419
+71420,house,no,no,2,4,no,51420
+71421,apartment or condo,no,yes,5,4,yes,51421
+71422,house,yes,yes,2,1,yes,51422
+71423,house,yes,no,6,1,yes,51423
+71424,house,no,yes,6,0,not applicable,51424
+71425,apartment or condo,no,yes,2,4,yes,51425
+71426,house,no,no,1,3,no,51426
+71427,house,no,no,2,0,not applicable,51427
+71428,house,yes,no,1,2,yes,51428
+71429,apartment or condo,no,yes,2,0,not applicable,51429
+71430,house,no,no,1,2,yes,51430
+71431,apartment or condo,no,yes,2,2,yes,51431
+71432,apartment or condo,no,no,1,1,yes,51432
+71433,apartment or condo,no,no,1,4,yes,51433
+71434,house,yes,yes,2,2,no,51434
+71435,apartment or condo,no,no,4,0,not applicable,51435
+71436,house,yes,no,1,2,no,51436
+71437,house,yes,no,3,1,no,51437
+71438,apartment or condo,no,no,1,2,yes,51438
+71439,house,yes,no,6,4,no,51439
+71440,house,yes,yes,3,1,yes,51440
+71441,apartment or condo,no,no,6,1,yes,51441
+71442,house,yes,yes,2,0,not applicable,51442
+71443,apartment or condo,no,yes,1,0,not applicable,51443
+71444,apartment or condo,no,no,2,0,not applicable,51444
+71445,house,no,yes,2,0,not applicable,51445
+71446,house,no,no,1,2,yes,51446
+71447,apartment or condo,no,no,2,1,yes,51447
+71448,apartment or condo,no,yes,1,0,not applicable,51448
+71449,house,yes,no,2,0,not applicable,51449

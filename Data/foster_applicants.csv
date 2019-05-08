@@ -1,0 +1,101 @@
+fosterId,lastName,firstName,emailAddress,gender,userAddress,userCity,userState,userZipCode,phone,birthDate,employmentStatus,specialNeedsExp,hoursAway,applicationId
+51350,Hoang,Tenzin,HoangT@yahoo.com,female,834 Cabell Ct,Springfield,VA,22150,173-764-6125,1992-07-05,Employed,no,9,61000
+51351,Laplante,Sierra,LaplanteS@yahoo.com,female,7541 Leesburg Pike,Falls Church,VA,22043,398-158-9172,1994-02-22,Student,no,6,61001
+51352,Parks,Kourtney,ParksK@msn.com,female,1924 8th St NW,Washington,DC,20001,678-415-7134,1974-04-03,Employed,no,5,61002
+51353,al-Shams,Haamida,al-ShamsH@gmail.com,female,901 17th St NE,Washington,DC,20002,529-592-2458,1975-06-10,Employed,no,7,61003
+51354,al-Musa,Fawzia,al-MusaF@aol.com,female,1211 Glebe Rd,Arlington,VA,22201,185-267-4327,2009-03-06,Student,no,8,61004
+51355,Songer,Cheyenne,SongerC@yahoo.com,female,1800 N Oak St,Arlington,VA,22209,352-874-7318,1975-02-16,Student,no,11,61005
+51356,Tovar,Marissa,TovarM@msn.com,female,1810 N Moore St,Arlington,VA,22209,296-321-9514,1963-04-02,Unemployed,no,4,61006
+51357,al-Samaan,Ramziyya,al-SamaanR@gmail.com,female,1320N Veitch St,Arlington,VA,22201,135-472-6125,1974-09-03,Unemployed,yes,3,61007
+51358,Trujillo,Savannah,TrujilloS@aol.com,female,5340 Holmes Run Pkwy,Alexandria,VA,22304,423-698-4819,1998-06-25,Unemployed,no,7,61008
+51359,Vallerano,Shantell,ValleranoS@aol.com,female,707 Larchmont Ave,Capitol Heights,MD,20743,517-217-5371,2001-07-14,Employed,yes,9,61009
+51360,al-Abdoo,Khaleela,al-AbdooK@msn.com,female,3326 E St SE,Washington,DC,20019,163-871-3254,1992-03-16,Student,yes,8,61010
+51361,Molett,Lauren,MolettL@yahoo.com,female,5400 Cathedral Ave NW,Washington,DC,20016,813-865-4518,1974-04-19,Employed,yes,6,61011
+51362,Thurlow,Shalene,ThurlowS@aol.com,female,5886 Leesburg Pike,Falls Church,VA,22041,354-254-2537,1949-12-11,Retired,no,1,61012
+51363,Burgos-Contreras,Araceli,Burgos-ContrerasA@gmail.com,female,7451 Patterson Rd,Falls Church,VA,22043,841-923-6931,1962-01-27,Employed,yes,4,61013
+51364,Kierstead,Laurissa,KiersteadL@msn.com,female,809 Graham Rd,Falls Church,VA,22042,854-127-1274,1986-08-28,Employed,yes,9,61014
+51365,al-Hashem,Rashaa,al-HashemR@yahoo.com,female,6211 Leesburg Pike,Falls Church,VA,22044,629-423-2597,2011-05-12,Student,yes,12,61015
+51366,Lee,Leandra,LeeL@aol.com,female,843 Cabell Avenue,Charlottesville,VA,22903,273-781-2648,1951-04-06,Retired,no,8,61016
+51367,Reed,Darian,ReedD@gmail.com,female,5840 Crossroads Ctr,Falls Church,VA,22041,438-132-5973,1972-09-25,Employed,no,8,61017
+51368,Hutchinson,Tanay,HutchinsonT@msn.com,female,155 Hillwood Avenue,Falls Church,VA,22046,517-462-5719,1976-12-30,Employed,no,4,61018
+51369,el-Popal,Kaazima,el-PopalK@aol.com,female,5300 Wisconsin Ave NW,Washington,DC,20015,964-816-4792,1977-07-20,Employed,no,3,61019
+51370,al-Kaiser,Hadeel,al-KaiserH@gmail.com,female,1201 G St NW,Washington,DC,20005,816-378-1763,2011-12-20,Employed,no,4,61020
+51371,Whalen,Hannah,WhalenH@msn.com,female,5333 Wisconsin Ave NW,Washington,DC,20015,324-859-6541,2001-12-26,Employed,no,8,61021
+51372,Gonzalez,Nancy,GonzalezN@yahoo.com,female,2747 Martin Luther King Jr Ave SE,Washington,DC,20032,186-265-4796,2000-10-31,Employed,no,6,61022
+51373,al-Karim,Shaamila,al-KarimS@aol.com,female,3921 S Capitol St SW,Washington,DC,20032,589-485-4193,1996-07-04,Student,no,2,61023
+51374,Vavak,Carie,VavakC@gmail.com,female,1608 20th St NW,Washington,DC,20009,876-472-3674,1954-04-15,Employed,no,4,61024
+51375,Albers,Shannon,AlbersS@msn.com,female,5100 Wisconsin Ave NW,Washington,DC,20016,362-326-2738,1999-11-25,Employed,no,8,61025
+51376,Ornelas,Victoria,OrnelasV@yahoo.com,female,1440 P St NW,Washington,DC,20005,618-956-9781,2011-06-11,Student,no,2,61026
+51377,Lopez Lucio,Iris,Lopez LucioI@aol.com,female,1345 Park Rd NW,Washington,DC,20010,976-413-3792,1950-02-21,Retired,no,1,61027
+51378,Kaze,Cally,KazeC@gmail.com,female,501 3rd St NW,Washington,DC,20001,794-712-9763,1995-07-17,Student,no,12,61028
+51379,Whyte,Mariah,WhyteM@yahoo.com,female,1317 Pennsylvania Ave SE,Washington,DC,20003,784-697-9143,1984-11-02,Employed,no,9,61029
+51380,al-Bacho,Awaatif,al-BachoA@aol.com,female,4616 14th St NW,Washington,DC,20011,871-721-9258,2000-12-30,Employed,yes,11,61030
+51381,al-Khalid,Mufeeda,al-KhalidM@gmail.com,female,826 18th St NW,Washington,DC,20006,159-345-8243,1947-11-18,Retired,no,3,61031
+51382,Scheetz,Erika,ScheetzE@msn.com,female,1101 25th St NW,Washington,DC,20037,768-894-5248,1947-10-01,Retired,no,1,61032
+51383,Haberthier,Caleigh,HaberthierC@yahoo.com,female,1319 18th St NW,Washington,DC,20036,164-235-2143,2011-10-08,Student,no,8,61033
+51384,Robinson,Olivya,RobinsonO@aol.com,female,1807 18th St NW,Washington,DC,20009,658-743-1978,1967-06-15,Employed,yes,5,61034
+51385,Boateng,Theanysla,BoatengT@gmail.com,female,300 Morse St NE,Washington,DC,20002,468-856-8561,1999-10-12,Employed,yes,4,61035
+51386,Holden,Frances,HoldenF@msn.com,female,516 23rd St NW,Washington,DC,20037,475-923-8931,2011-06-06,Student,yes,8,61036
+51387,Nguyen,Julia,NguyenJ@yahoo.com,female,529 14th St NW,Washington,DC,20045,921-634-8156,1960-01-19,Employed,no,12,61037
+51388,Guerette,Jhana,GueretteJ@aol.com,female,3100 14th St NW,Washington,DC,20010,328-154-5812,1988-12-28,Student,no,8,61038
+51389,Chapman,Lili,ChapmanL@msn.com,female,94 Palmer Aly NW,Washington,DC,20001,975-829-3457,2007-12-21,Student,no,2,61039
+51390,Castaneda,Daylamae,CastanedaD@yahoo.com,female,1548 Benning Rd NE,Washington,DC,20002,371-674-2196,2011-03-22,Employed,no,11,61040
+51391,Mitchell,Aliyah,MitchellA@aol.com,female,2305 Rhode Island Ave NE,Washington,DC,20018,952-573-1382,1976-08-29,Employed,no,3,61041
+51392,Kaba,Krystal,KabaK@gmail.com,female,1251 9th St NW,Washington,DC,20001,531-137-5469,1961-12-28,Student,yes,9,61042
+51393,Carter,A'Layjah,CarterA@msn.com,female,908 17th St NW,Washington,DC,20006,735-961-5139,1983-03-08,Employed,no,1,61043
+51394,Navajo,Mariah,NavajoM@yahoo.com,female,111 19th St NW,Washington,DC,20036,174-765-7631,1985-01-02,Unemployed,no,12,61044
+51395,Stepner,Katrina,StepnerK@aol.com,female,1230 New York Ave NE,Washington,DC,20002,965-259-9128,1975-03-09,Employed,no,7,61045
+51396,Lee,Michelle Marie,LeeM@gmail.com,female,3030 M St NW,Washington,DC,20007,367-754-9186,1974-09-13,Student,yes,11,61046
+51397,Ross,Magan,RossM@msn.com,female,2516 Columbia Pike,Arlington,VA,22204,415-592-2147,1985-10-17,Employed,no,7,61047
+51398,Mai,Lara,MaiL@yahoo.com,female,2501 9th Rd S,Arlington,VA,22204,296-579-1674,1976-05-20,Student,no,4,61048
+51399,el-Kaleel,Naaila,el-KaleelN@gmail.com,female,300 N Glebe Rd,Arlington,VA,22203,675-576-1495,2001-11-20,Employed,no,10,61049
+51400,Cho,Mreenal,ChoM@msn.com,male,1201 S Hayes St,Arlington,VA,22202,956-694-7861,1961-06-24,Unemployed,yes,9,61050
+51401,al-Javed,Taaj,al-JavedT@yahoo.com,male,1200 N Veitch St,Arlington,VA,22201,197-637-6532,1974-04-24,Unemployed,no,6,61051
+51402,Martinez,Phillip,MartinezP@aol.com,male,1625 Wilson Blvd,Arlington,VA,22209,826-682-5781,1948-05-08,Retired,no,8,61052
+51403,Gonzales,Erick,GonzalesE@gmail.com,male,2324 Columbia Pike,Arlington,VA,22204,943-412-4382,1971-09-24,Employed,no,6,61053
+51404,Whiteside,Nicholas,WhitesideN@msn.com,male,1810 N Moore St,Arlington,VA,22209,627-137-6137,1974-06-14,Employed,yes,8,61054
+51405,al-Yousef,Aabdeen,al-YousefA@yahoo.com,male,1401 N Taft St,Arlington,VA,22201,549-284-5163,1959-06-11,Employed,no,1,61055
+51406,Wright,Djanne,WrightD@aol.com,male,1144 N Stuart St,Arlington,VA,22201,816-395-9137,1992-11-05,Employed,yes,12,61056
+51407,Tampubolon,Adam,TampubolonA@gmail.com,male,4505 Lee Hwy,Arlington,VA,22207,567-689-2983,1947-11-17,Retired,no,5,61057
+51408,Ngo,Ryan,NgoR@msn.com,male,1101 S Joyce St,Arlington,VA,22029,125-456-6451,1994-07-12,Employed,no,2,61058
+51409,Lee,Thomas,LeeT@aol.com,male,2250 Clarendon Blvd,Arlington,VA,22201,532-516-6942,1994-07-13,Employed,no,7,61059
+51410,Deam,Brianna,DeamB@gmail.com,male,523 Carpenter Rd,Fort Myer,VA,22211,579-473-6428,1947-11-27,Retired,yes,11,61060
+51411,Nguyen,Cyrus,NguyenC@msn.com,male,3610 Lee Hwy,Arlington,VA,22207,864-521-4176,1974-03-13,Employed,no,11,61061
+51412,Materkowski,Sarah,MaterkowskiS@yahoo.com,male,4100 Fairfax Dr,Arlington,VA,22203,798-592-6235,1988-11-06,Student,no,9,61062
+51413,Voorheis,William,VoorheisW@aol.com,male,900 N Randolph St,Arlington,VA,22203,723-415-5274,1961-04-15,Unemployed,no,10,61063
+51414,Hopper,David,HopperD@gmail.com,male,2501 9th Rd S,Arlington,VA,22204,879-865-3197,2001-03-04,Student,yes,11,61064
+51415,Rafii,Samantha,RafiiS@msn.com,male,1201 S Courthouse Rd,Arlington,VA,22204,423-472-2163,1992-02-28,Student,no,7,61065
+51416,Hayward,Kendra,HaywardK@yahoo.com,male,4200 Columbia Pike,Arlington,VA,22204,819-268-9532,2005-06-11,Employed,no,12,61066
+51417,Huntington,Samuel,HuntingtonS@aol.com,male,1235 Jefferson Davis Hwy,Arlington,VA,22202,862-794-6874,1973-12-04,Student,yes,3,61067
+51418,Flynn,Tyler,FlynnT@gmail.com,male,1201 S Eads St,Arlington,VA,22202,174-432-4829,1973-09-18,Unemployed,yes,1,61068
+51419,al-Rehmann,Abdul Maalik,al-RehmannA@yahoo.com,male,850 N Randolph St,Arlington,VA,22203,579-698-4392,1971-04-18,Employed,no,8,61069
+51420,Oskarsson,Sujee,OskarssonS@aol.com,male,850 N Randolph St,Arlington,VA,22203,956-953-1742,2007-07-22,Employed,yes,12,61070
+51421,el-Younan,Asad,el-YounanA@gmail.com,male,8039 Gatehouse Rd,Falls Church,VA,22042,429-318-7326,1977-12-17,Student,yes,10,61071
+51422,Kingsted,Taylor,KingstedT@msn.com,male,2303 Bancroft Pl NW,Washington,DC,20008,495-924-7418,1950-02-05,Retired,no,5,61072
+51423,Kniss,Sherry,KnissS@yahoo.com,male,4326 9th ST NW,Washington,DC,22011,125-871-4759,1997-04-12,Student,yes,6,61073
+51424,Brave,Tisha,BraveT@aol.com,male,2800 Clarendon Blvd,Arlington,VA,22201,254-712-8173,1968-07-10,Student,no,5,61074
+51425,Brown,Arian,BrownA@gmail.com,male,2800 Clarendon Blvd,Arlington,VA,22201,894-749-1264,1982-12-08,Unemployed,no,10,61075
+51426,White,Ivan,WhiteI@msn.com,male,7013 Leestone St,Springfield,VA,22151,482-516-4726,1990-12-17,Employed,no,6,61076
+51427,Fong,Karla,FongK@yahoo.com,male,2519 Afton St,Temple Hills,MD,20748,451-891-5274,1965-01-10,Unemployed,no,1,61077
+51428,Binder,Bridget,BinderB@aol.com,male,1320 N Veitch St,Arlington,VA,22201,138-621-1672,1950-06-08,Retired,yes,8,61078
+51429,al-Kabir,Azeema,al-KabirA@msn.com,male,4934 Indian Ln NW,Washington,DC,20016,351-261-6819,2010-06-11,Employed,no,4,61079
+51430,Pineda,Ashley,PinedaA@yahoo.com,male,4123 Village Ct,Annandale,VA,22033,164-674-7539,2010-01-14,Employed,yes,11,61080
+51431,Sanders,Tyre,SandersT@aol.com,male,500 N Roosevelt St,Falls Church,VA,22044,275-752-7534,1952-10-01,Retired,yes,11,61081
+51432,Montoya,Emma,MontoyaE@gmail.com,male,500 N Roosevelt St,Falls Church,VA,22044,852-839-7684,1979-05-25,Employed,yes,6,61082
+51433,Allison,Edison,AllisonE@msn.com,male,2724 S Arlington Ridge Rd,Arlington,VA,22202,148-864-1259,1972-09-20,Employed,no,1,61083
+51434,Blanco,Zeavennia,BlancoZ@yahoo.com,male,2400 Queens Chapel Rd,Hyattsville,MD,20782,236-361-8341,1972-05-15,Employed,yes,7,61084
+51435,Rudolph,Payton,RudolphP@aol.com,male,2400 Queens Chapel Rd,Hyattsville,MD,20782,837-483-5418,1967-09-14,Student,no,7,61085
+51436,Vu,Dimitri,VuD@gmail.com,male,950 25th St NW,Washington,DC,20037,539-642-7684,1991-05-15,Employed,yes,12,61086
+51437,Sawyer,Katarina,SawyerK@msn.com,male,5603 Cypress Creek Dr,Chillum,MD,20782,349-367-3647,1965-07-02,Unemployed,no,5,61087
+51438,Bison,Kaitlyn,BisonK@yahoo.com,male,5603 Cypress Creek Dr,Chillum,MD,20783,198-194-2793,1972-05-10,Employed,no,9,61088
+51439,Walker,Krista,WalkerK@gmail.com,male,4101 Kaywood Pl,Mt Rainier,MD,20712,537-182-2719,1967-04-22,Employed,no,9,61089
+51440,Martinez,Joel,MartinezJ@msn.com,male,4101 Kaywood Pl,Mt Rainier,MD,20713,964-496-6412,2000-02-11,Employed,no,2,61090
+51441,Duran,Alexander,DuranA@yahoo.com,male,6706 Farragut Ave,Falls Church,VA,22042,321-526-5816,1961-05-11,Student,no,11,61091
+51442,Bhattarai,Stephanie,BhattaraiS@aol.com,male,3001 Branch Ave,Hillcrest Heights,MD,20748,785-296-6398,1979-07-27,Student,no,7,61092
+51443,Baptista,Bianca,BaptistaB@gmail.com,male,2740 32nd St NW,Washington,DC,20008,853-941-5873,1957-11-08,Employed,yes,3,61093
+51444,Linscome,Lorrie,LinscomeL@msn.com,male,3601 Newark St NW,Washington,DC,20016,836-843-6754,1954-10-11,Unemployed,yes,5,61094
+51445,Tuke,Trevor,TukeT@yahoo.com,male,4545 Wheeler Rd,Glassmanor,MD,20745,251-568-1482,2005-05-06,Employed,no,11,61095
+51446,Purvis,Nathan,PurvisN@aol.com,male,831 Rock Creek Church Rd NW,Washington,DC,20010,695-256-3681,1953-02-02,Retired,no,6,61096
+51447,el-Fadel,Shahaama,el-FadelS@gmail.com,male,3301 King St,Alexandria,VA,22302,968-217-9243,2003-03-25,Employed,yes,9,61097
+51448,al-Safi,Saeed,al-SafiS@msn.com,male,3466 Brinkley Rd,Temple Hills,MD,20748,914-719-3157,1994-08-25,Student,no,2,61098
+51449,Wimmer,Hannah,WimmerH@gmail.com,male,653 Morton Pl NE,Washington,DC,20002,831-835-5423,1996-10-08,Student,yes,11,61099
